@@ -16,7 +16,7 @@
       "psychic"
     ],
     "name": "Bulbasaur",
-    "number": 1,
+    "number": "001",
     "description": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
     "maxCP": 1071,
     "maxHP": 82,
@@ -30,7 +30,7 @@
     "rankingCP": 110,
     "evolution": [
       {
-        "number": 2,
+        "number": "002",
         "candies": 25
       }
     ],
@@ -53,7 +53,7 @@
       "psychic"
     ],
     "name": "Ivysaur",
-    "number": 2,
+    "number": "002",
     "description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
     "maxCP": 1632,
     "maxHP": 106,
@@ -67,7 +67,7 @@
     "rankingCP": 73,
     "evolution": [
       {
-        "number": 3,
+        "number": "003",
         "candies": 100
       }
     ],
@@ -90,7 +90,7 @@
       "psychic"
     ],
     "name": "Venusaur",
-    "number": 3,
+    "number": "003",
     "description": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
     "maxCP": 2580,
     "maxHP": 138,
@@ -122,7 +122,7 @@
       "water"
     ],
     "name": "Charmander",
-    "number": 4,
+    "number": "004",
     "description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
     "maxCP": 955,
     "maxHP": 73,
@@ -136,7 +136,7 @@
     "rankingCP": 116,
     "evolution": [
       {
-        "number": 5,
+        "number": "005",
         "candies": 25
       }
     ],
@@ -159,7 +159,7 @@
       "water"
     ],
     "name": "Charmeleon",
-    "number": 5,
+    "number": "005",
     "description": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
     "maxCP": 1557,
     "maxHP": 103,
@@ -173,7 +173,7 @@
     "rankingCP": 77,
     "evolution": [
       {
-        "number": 6,
+        "number": "006",
         "candies": 100
       }
     ],
@@ -197,7 +197,7 @@
       "water"
     ],
     "name": "Charizard",
-    "number": 6,
+    "number": "006",
     "description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
     "maxCP": 2602,
     "maxHP": 135,
@@ -227,7 +227,7 @@
       "grass"
     ],
     "name": "Squirtle",
-    "number": 7,
+    "number": "007",
     "description": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
     "maxCP": 1008,
     "maxHP": 81,
@@ -241,7 +241,7 @@
     "rankingCP": 112,
     "evolution": [
       {
-        "number": 8,
+        "number": "008",
         "candies": 25
       }
     ],
@@ -262,7 +262,7 @@
       "grass"
     ],
     "name": "Wartortle",
-    "number": 8,
+    "number": "008",
     "description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
     "maxCP": 1582,
     "maxHP": 105,
@@ -276,7 +276,7 @@
     "rankingCP": 76,
     "evolution": [
       {
-        "number": 9,
+        "number": "009",
         "candies": 100
       }
     ],
@@ -297,7 +297,7 @@
       "grass"
     ],
     "name": "Blastoise",
-    "number": 9,
+    "number": "009",
     "description": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
     "maxCP": 2542,
     "maxHP": 136,
@@ -328,7 +328,7 @@
       "rock"
     ],
     "name": "Caterpie",
-    "number": 10,
+    "number": "010",
     "description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
     "maxCP": 443,
     "maxHP": 82,
@@ -342,7 +342,7 @@
     "rankingCP": 150,
     "evolution": [
       {
-        "number": 11,
+        "number": "011",
         "candies": 12
       }
     ],
@@ -364,7 +364,7 @@
       "rock"
     ],
     "name": "Metapod",
-    "number": 11,
+    "number": "011",
     "description": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
     "maxCP": 477,
     "maxHP": 90,
@@ -378,7 +378,7 @@
     "rankingCP": 147,
     "evolution": [
       {
-        "number": 12,
+        "number": "012",
         "candies": 50
       }
     ],
@@ -404,7 +404,7 @@
       "ice"
     ],
     "name": "Butterfree",
-    "number": 12,
+    "number": "012",
     "description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
     "maxCP": 1454,
     "maxHP": 106,
@@ -437,7 +437,7 @@
       "rock"
     ],
     "name": "Weedle",
-    "number": 13,
+    "number": "013",
     "description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
     "maxCP": 449,
     "maxHP": 75,
@@ -451,7 +451,7 @@
     "rankingCP": 149,
     "evolution": [
       {
-        "number": 14,
+        "number": "014",
         "candies": 12
       }
     ],
@@ -475,7 +475,7 @@
       "rock"
     ],
     "name": "Kakuna",
-    "number": 14,
+    "number": "014",
     "description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
     "maxCP": 485,
     "maxHP": 82,
@@ -489,7 +489,7 @@
     "rankingCP": 146,
     "evolution": [
       {
-        "number": 15,
+        "number": "015",
         "candies": 50
       }
     ],
@@ -513,7 +513,7 @@
       "rock"
     ],
     "name": "Beedrill",
-    "number": 15,
+    "number": "015",
     "description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
     "maxCP": 1439,
     "maxHP": 114,
@@ -545,7 +545,7 @@
       "rock"
     ],
     "name": "Pidgey",
-    "number": 16,
+    "number": "016",
     "description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
     "maxCP": 679,
     "maxHP": 75,
@@ -559,7 +559,7 @@
     "rankingCP": 141,
     "evolution": [
       {
-        "number": 17,
+        "number": "017",
         "candies": 12
       }
     ],
@@ -582,7 +582,7 @@
       "rock"
     ],
     "name": "Pidgeotto",
-    "number": 17,
+    "number": "017",
     "description": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
     "maxCP": 1223,
     "maxHP": 111,
@@ -596,7 +596,7 @@
     "rankingCP": 93,
     "evolution": [
       {
-        "number": 18,
+        "number": "018",
         "candies": 50
       }
     ],
@@ -619,7 +619,7 @@
       "rock"
     ],
     "name": "Pidgeot",
-    "number": 18,
+    "number": "018",
     "description": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
     "maxCP": 2091,
     "maxHP": 143,
@@ -644,7 +644,7 @@
       "fighting"
     ],
     "name": "Rattata",
-    "number": 19,
+    "number": "019",
     "description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.",
     "maxCP": 581,
     "maxHP": 59,
@@ -658,7 +658,7 @@
     "rankingCP": 145,
     "evolution": [
       {
-        "number": 20,
+        "number": "020",
         "candies": 25
       }
     ],
@@ -674,7 +674,7 @@
       "fighting"
     ],
     "name": "Raticate",
-    "number": 20,
+    "number": "020",
     "description": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
     "maxCP": 1444,
     "maxHP": 98,
@@ -706,7 +706,7 @@
       "rock"
     ],
     "name": "Spearow",
-    "number": 21,
+    "number": "021",
     "description": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
     "maxCP": 686,
     "maxHP": 75,
@@ -720,7 +720,7 @@
     "rankingCP": 140,
     "evolution": [
       {
-        "number": 22,
+        "number": "022",
         "candies": 50
       }
     ],
@@ -743,7 +743,7 @@
       "rock"
     ],
     "name": "Fearow",
-    "number": 22,
+    "number": "022",
     "description": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
     "maxCP": 1746,
     "maxHP": 114,
@@ -772,7 +772,7 @@
       "psychic"
     ],
     "name": "Ekans",
-    "number": 23,
+    "number": "023",
     "description": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
     "maxCP": 824,
     "maxHP": 67,
@@ -786,7 +786,7 @@
     "rankingCP": 132,
     "evolution": [
       {
-        "number": 24,
+        "number": "024",
         "candies": 50
       }
     ],
@@ -806,7 +806,7 @@
       "psychic"
     ],
     "name": "Arbok",
-    "number": 24,
+    "number": "024",
     "description": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
     "maxCP": 1767,
     "maxHP": 106,
@@ -834,7 +834,7 @@
       "ground"
     ],
     "name": "Pikachu",
-    "number": 25,
+    "number": "025",
     "description": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
     "maxCP": 887,
     "maxHP": 67,
@@ -848,7 +848,7 @@
     "rankingCP": 123,
     "evolution": [
       {
-        "number": 26,
+        "number": "026",
         "candies": 50
       }
     ],
@@ -867,7 +867,7 @@
       "ground"
     ],
     "name": "Raichu",
-    "number": 26,
+    "number": "026",
     "description": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
     "maxCP": 2028,
     "maxHP": 106,
@@ -900,7 +900,7 @@
       "water"
     ],
     "name": "Sandshrew",
-    "number": 27,
+    "number": "027",
     "description": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
     "maxCP": 798,
     "maxHP": 90,
@@ -914,7 +914,7 @@
     "rankingCP": 135,
     "evolution": [
       {
-        "number": 28,
+        "number": "028",
         "candies": 50
       }
     ],
@@ -938,7 +938,7 @@
       "water"
     ],
     "name": "Sandslash",
-    "number": 28,
+    "number": "028",
     "description": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
     "maxCP": 1810,
     "maxHP": 130,
@@ -967,7 +967,7 @@
       "psychic"
     ],
     "name": "Nidoran♀",
-    "number": 29,
+    "number": "029",
     "description": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
     "maxCP": 876,
     "maxHP": 98,
@@ -981,7 +981,7 @@
     "rankingCP": 125,
     "evolution": [
       {
-        "number": 30,
+        "number": "030",
         "candies": 25
       }
     ],
@@ -1001,7 +1001,7 @@
       "psychic"
     ],
     "name": "Nidorina",
-    "number": 30,
+    "number": "030",
     "description": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
     "maxCP": 1404,
     "maxHP": 122,
@@ -1015,7 +1015,7 @@
     "rankingCP": 86,
     "evolution": [
       {
-        "number": 31,
+        "number": "031",
         "candies": 100
       }
     ],
@@ -1039,7 +1039,7 @@
       "water"
     ],
     "name": "Nidoqueen",
-    "number": 31,
+    "number": "031",
     "description": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
     "maxCP": 2485,
     "maxHP": 154,
@@ -1068,7 +1068,7 @@
       "psychic"
     ],
     "name": "Nidoran♂",
-    "number": 32,
+    "number": "032",
     "description": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
     "maxCP": 843,
     "maxHP": 84,
@@ -1082,7 +1082,7 @@
     "rankingCP": 129,
     "evolution": [
       {
-        "number": 33,
+        "number": "033",
         "candies": 25
       }
     ],
@@ -1102,7 +1102,7 @@
       "psychic"
     ],
     "name": "Nidorino",
-    "number": 33,
+    "number": "033",
     "description": "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
     "maxCP": 1372,
     "maxHP": 108,
@@ -1116,7 +1116,7 @@
     "rankingCP": 88,
     "evolution": [
       {
-        "number": 34,
+        "number": "034",
         "candies": 100
       }
     ],
@@ -1140,7 +1140,7 @@
       "water"
     ],
     "name": "Nidoking",
-    "number": 34,
+    "number": "034",
     "description": "Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
     "maxCP": 2475,
     "maxHP": 139,
@@ -1170,7 +1170,7 @@
       "poison"
     ],
     "name": "Clefairy",
-    "number": 35,
+    "number": "035",
     "description": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
     "maxCP": 1200,
     "maxHP": 122,
@@ -1184,7 +1184,7 @@
     "rankingCP": 95,
     "evolution": [
       {
-        "number": 36,
+        "number": "036",
         "candies": 50
       }
     ],
@@ -1205,7 +1205,7 @@
       "poison"
     ],
     "name": "Clefable",
-    "number": 36,
+    "number": "036",
     "description": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
     "maxCP": 2397,
     "maxHP": 162,
@@ -1237,7 +1237,7 @@
       "water"
     ],
     "name": "Vulpix",
-    "number": 37,
+    "number": "037",
     "description": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.",
     "maxCP": 831,
     "maxHP": 71,
@@ -1251,7 +1251,7 @@
     "rankingCP": 131,
     "evolution": [
       {
-        "number": 38,
+        "number": "038",
         "candies": 50
       }
     ],
@@ -1274,7 +1274,7 @@
       "water"
     ],
     "name": "Ninetales",
-    "number": 38,
+    "number": "038",
     "description": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.",
     "maxCP": 2188,
     "maxHP": 127,
@@ -1305,7 +1305,7 @@
       "poison"
     ],
     "name": "Jigglypuff",
-    "number": 39,
+    "number": "039",
     "description": "Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.",
     "maxCP": 917,
     "maxHP": 193,
@@ -1319,7 +1319,7 @@
     "rankingCP": 119,
     "evolution": [
       {
-        "number": 40,
+        "number": "040",
         "candies": 50
       }
     ],
@@ -1341,7 +1341,7 @@
       "poison"
     ],
     "name": "Wigglytuff",
-    "number": 40,
+    "number": "040",
     "description": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away.",
     "maxCP": 2177,
     "maxHP": 233,
@@ -1375,7 +1375,7 @@
       "rock"
     ],
     "name": "Zubat",
-    "number": 41,
+    "number": "041",
     "description": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
     "maxCP": 642,
     "maxHP": 75,
@@ -1389,7 +1389,7 @@
     "rankingCP": 143,
     "evolution": [
       {
-        "number": 42,
+        "number": "042",
         "candies": 50
       }
     ],
@@ -1414,7 +1414,7 @@
       "rock"
     ],
     "name": "Golbat",
-    "number": 42,
+    "number": "042",
     "description": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
     "maxCP": 1921,
     "maxHP": 130,
@@ -1446,7 +1446,7 @@
       "psychic"
     ],
     "name": "Oddish",
-    "number": 43,
+    "number": "043",
     "description": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
     "maxCP": 1148,
     "maxHP": 82,
@@ -1460,7 +1460,7 @@
     "rankingCP": 99,
     "evolution": [
       {
-        "number": 44,
+        "number": "044",
         "candies": 25
       }
     ],
@@ -1483,7 +1483,7 @@
       "psychic"
     ],
     "name": "Gloom",
-    "number": 44,
+    "number": "044",
     "description": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
     "maxCP": 1689,
     "maxHP": 106,
@@ -1497,7 +1497,7 @@
     "rankingCP": 70,
     "evolution": [
       {
-        "number": 45,
+        "number": "045",
         "candies": 100
       }
     ],
@@ -1520,7 +1520,7 @@
       "psychic"
     ],
     "name": "Vileplume",
-    "number": 45,
+    "number": "045",
     "description": "Vileplume's toxic pollen triggers atrocious allergy attacks. That's why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be.",
     "maxCP": 2492,
     "maxHP": 130,
@@ -1557,7 +1557,7 @@
       "rock"
     ],
     "name": "Paras",
-    "number": 46,
+    "number": "046",
     "description": "Paras has parasitic mushrooms growing on its back called tochukaso. They grow large by drawing nutrients from this Bug Pokémon host. They are highly valued as a medicine for extending life.",
     "maxCP": 916,
     "maxHP": 67,
@@ -1571,7 +1571,7 @@
     "rankingCP": 120,
     "evolution": [
       {
-        "number": 47,
+        "number": "047",
         "candies": 50
       }
     ],
@@ -1599,7 +1599,7 @@
       "rock"
     ],
     "name": "Parasect",
-    "number": 47,
+    "number": "047",
     "description": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
     "maxCP": 1747,
     "maxHP": 106,
@@ -1632,7 +1632,7 @@
       "rock"
     ],
     "name": "Venonat",
-    "number": 48,
+    "number": "048",
     "description": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
     "maxCP": 1029,
     "maxHP": 106,
@@ -1646,7 +1646,7 @@
     "rankingCP": 111,
     "evolution": [
       {
-        "number": 49,
+        "number": "049",
         "candies": 50
       }
     ],
@@ -1670,7 +1670,7 @@
       "rock"
     ],
     "name": "Venomoth",
-    "number": 49,
+    "number": "049",
     "description": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
     "maxCP": 1890,
     "maxHP": 122,
@@ -1703,7 +1703,7 @@
       "water"
     ],
     "name": "Diglett",
-    "number": 50,
+    "number": "050",
     "description": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
     "maxCP": 456,
     "maxHP": 27,
@@ -1717,7 +1717,7 @@
     "rankingCP": 148,
     "evolution": [
       {
-        "number": 51,
+        "number": "051",
         "candies": 50
       }
     ],
@@ -1741,7 +1741,7 @@
       "water"
     ],
     "name": "Dugtrio",
-    "number": 51,
+    "number": "051",
     "description": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
     "maxCP": 1168,
     "maxHP": 67,
@@ -1766,7 +1766,7 @@
       "fighting"
     ],
     "name": "Meowth",
-    "number": 52,
+    "number": "052",
     "description": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
     "maxCP": 756,
     "maxHP": 75,
@@ -1780,7 +1780,7 @@
     "rankingCP": 139,
     "evolution": [
       {
-        "number": 53,
+        "number": "053",
         "candies": 50
       }
     ],
@@ -1796,7 +1796,7 @@
       "fighting"
     ],
     "name": "Persian",
-    "number": 53,
+    "number": "053",
     "description": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.",
     "maxCP": 1631,
     "maxHP": 114,
@@ -1826,7 +1826,7 @@
       "grass"
     ],
     "name": "Psyduck",
-    "number": 54,
+    "number": "054",
     "description": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
     "maxCP": 1109,
     "maxHP": 90,
@@ -1840,7 +1840,7 @@
     "rankingCP": 103,
     "evolution": [
       {
-        "number": 55,
+        "number": "055",
         "candies": 50
       }
     ],
@@ -1861,7 +1861,7 @@
       "grass"
     ],
     "name": "Golduck",
-    "number": 55,
+    "number": "055",
     "description": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
     "maxCP": 2386,
     "maxHP": 138,
@@ -1894,7 +1894,7 @@
       "fairy"
     ],
     "name": "Mankey",
-    "number": 56,
+    "number": "056",
     "description": "When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.",
     "maxCP": 878,
     "maxHP": 75,
@@ -1908,7 +1908,7 @@
     "rankingCP": 124,
     "evolution": [
       {
-        "number": 57,
+        "number": "057",
         "candies": 50
       }
     ],
@@ -1932,7 +1932,7 @@
       "fairy"
     ],
     "name": "Primeape",
-    "number": 57,
+    "number": "057",
     "description": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
     "maxCP": 1864,
     "maxHP": 114,
@@ -1964,7 +1964,7 @@
       "water"
     ],
     "name": "Growlithe",
-    "number": 58,
+    "number": "058",
     "description": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent, no matter what. It uses its advanced olfactory sense to determine the emotions of other living things.",
     "maxCP": 1335,
     "maxHP": 98,
@@ -1978,7 +1978,7 @@
     "rankingCP": 90,
     "evolution": [
       {
-        "number": 59,
+        "number": "059",
         "candies": 50
       }
     ],
@@ -2001,7 +2001,7 @@
       "water"
     ],
     "name": "Arcanine",
-    "number": 59,
+    "number": "059",
     "description": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon's body is its source of power.",
     "maxCP": 2983,
     "maxHP": 154,
@@ -2031,7 +2031,7 @@
       "grass"
     ],
     "name": "Poliwag",
-    "number": 60,
+    "number": "060",
     "description": "Poliwag has a very thin skin. It is possible to see the Pokémon's spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
     "maxCP": 795,
     "maxHP": 75,
@@ -2045,7 +2045,7 @@
     "rankingCP": 136,
     "evolution": [
       {
-        "number": 61,
+        "number": "061",
         "candies": 25
       }
     ],
@@ -2066,7 +2066,7 @@
       "grass"
     ],
     "name": "Poliwhirl",
-    "number": 61,
+    "number": "061",
     "description": "The surface of Poliwhirl's body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
     "maxCP": 1340,
     "maxHP": 114,
@@ -2080,7 +2080,7 @@
     "rankingCP": 89,
     "evolution": [
       {
-        "number": 62,
+        "number": "062",
         "candies": 100
       }
     ],
@@ -2109,7 +2109,7 @@
       "fairy"
     ],
     "name": "Poliwrath",
-    "number": 62,
+    "number": "062",
     "description": "Poliwrath's highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
     "maxCP": 2505,
     "maxHP": 154,
@@ -2139,7 +2139,7 @@
       "ghost"
     ],
     "name": "Abra",
-    "number": 63,
+    "number": "063",
     "description": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
     "maxCP": 600,
     "maxHP": 51,
@@ -2153,7 +2153,7 @@
     "rankingCP": 144,
     "evolution": [
       {
-        "number": 64,
+        "number": "064",
         "candies": 25
       }
     ],
@@ -2174,7 +2174,7 @@
       "ghost"
     ],
     "name": "Kadabra",
-    "number": 64,
+    "number": "064",
     "description": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
     "maxCP": 1131,
     "maxHP": 75,
@@ -2188,7 +2188,7 @@
     "rankingCP": 100,
     "evolution": [
       {
-        "number": 65,
+        "number": "065",
         "candies": 100
       }
     ],
@@ -2209,7 +2209,7 @@
       "ghost"
     ],
     "name": "Alakazam",
-    "number": 65,
+    "number": "065",
     "description": "Alakazam's brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
     "maxCP": 1813,
     "maxHP": 98,
@@ -2242,7 +2242,7 @@
       "fairy"
     ],
     "name": "Machop",
-    "number": 66,
+    "number": "066",
     "description": "Machop's muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
     "maxCP": 1089,
     "maxHP": 122,
@@ -2256,7 +2256,7 @@
     "rankingCP": 107,
     "evolution": [
       {
-        "number": 67,
+        "number": "067",
         "candies": 25
       }
     ],
@@ -2280,7 +2280,7 @@
       "fairy"
     ],
     "name": "Machoke",
-    "number": 67,
+    "number": "067",
     "description": "Machoke's thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger.",
     "maxCP": 1760,
     "maxHP": 138,
@@ -2294,7 +2294,7 @@
     "rankingCP": 61,
     "evolution": [
       {
-        "number": 68,
+        "number": "068",
         "candies": 100
       }
     ],
@@ -2318,7 +2318,7 @@
       "fairy"
     ],
     "name": "Machamp",
-    "number": 68,
+    "number": "068",
     "description": "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.",
     "maxCP": 2594,
     "maxHP": 154,
@@ -2350,7 +2350,7 @@
       "psychic"
     ],
     "name": "Bellsprout",
-    "number": 69,
+    "number": "069",
     "description": "Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
     "maxCP": 1117,
     "maxHP": 90,
@@ -2364,7 +2364,7 @@
     "rankingCP": 102,
     "evolution": [
       {
-        "number": 70,
+        "number": "070",
         "candies": 25
       }
     ],
@@ -2387,7 +2387,7 @@
       "psychic"
     ],
     "name": "Weepinbell",
-    "number": 70,
+    "number": "070",
     "description": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
     "maxCP": 1723,
     "maxHP": 114,
@@ -2401,7 +2401,7 @@
     "rankingCP": 66,
     "evolution": [
       {
-        "number": 71,
+        "number": "071",
         "candies": 100
       }
     ],
@@ -2424,7 +2424,7 @@
       "psychic"
     ],
     "name": "Victreebel",
-    "number": 71,
+    "number": "071",
     "description": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
     "maxCP": 2530,
     "maxHP": 138,
@@ -2455,7 +2455,7 @@
       "psychic"
     ],
     "name": "Tentacool",
-    "number": 72,
+    "number": "072",
     "description": "Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.",
     "maxCP": 905,
     "maxHP": 75,
@@ -2469,7 +2469,7 @@
     "rankingCP": 121,
     "evolution": [
       {
-        "number": 73,
+        "number": "073",
         "candies": 50
       }
     ],
@@ -2491,7 +2491,7 @@
       "psychic"
     ],
     "name": "Tentacruel",
-    "number": 73,
+    "number": "073",
     "description": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.",
     "maxCP": 2220,
     "maxHP": 138,
@@ -2528,7 +2528,7 @@
       "steel"
     ],
     "name": "Geodude",
-    "number": 74,
+    "number": "074",
     "description": "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.",
     "maxCP": 849,
     "maxHP": 75,
@@ -2542,7 +2542,7 @@
     "rankingCP": 128,
     "evolution": [
       {
-        "number": 75,
+        "number": "075",
         "candies": 25
       }
     ],
@@ -2570,7 +2570,7 @@
       "steel"
     ],
     "name": "Graveler",
-    "number": 75,
+    "number": "075",
     "description": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis.",
     "maxCP": 1433,
     "maxHP": 98,
@@ -2584,7 +2584,7 @@
     "rankingCP": 85,
     "evolution": [
       {
-        "number": 76,
+        "number": "076",
         "candies": 100
       }
     ],
@@ -2612,7 +2612,7 @@
       "steel"
     ],
     "name": "Golem",
-    "number": 76,
+    "number": "076",
     "description": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.",
     "maxCP": 2303,
     "maxHP": 138,
@@ -2644,7 +2644,7 @@
       "water"
     ],
     "name": "Ponyta",
-    "number": 77,
+    "number": "077",
     "description": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
     "maxCP": 1516,
     "maxHP": 90,
@@ -2658,7 +2658,7 @@
     "rankingCP": 78,
     "evolution": [
       {
-        "number": 78,
+        "number": "078",
         "candies": 50
       }
     ],
@@ -2681,7 +2681,7 @@
       "water"
     ],
     "name": "Rapidash",
-    "number": 78,
+    "number": "078",
     "description": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
     "maxCP": 2199,
     "maxHP": 114,
@@ -2717,7 +2717,7 @@
       "grass"
     ],
     "name": "Slowpoke",
-    "number": 79,
+    "number": "079",
     "description": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.",
     "maxCP": 1218,
     "maxHP": 154,
@@ -2731,7 +2731,7 @@
     "rankingCP": 94,
     "evolution": [
       {
-        "number": 80,
+        "number": "080",
         "candies": 50
       }
     ],
@@ -2758,7 +2758,7 @@
       "grass"
     ],
     "name": "Slowbro",
-    "number": 80,
+    "number": "080",
     "description": "Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.",
     "maxCP": 2597,
     "maxHP": 162,
@@ -2791,7 +2791,7 @@
       "fighting"
     ],
     "name": "Magnemite",
-    "number": 81,
+    "number": "081",
     "description": "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.",
     "maxCP": 890,
     "maxHP": 51,
@@ -2805,7 +2805,7 @@
     "rankingCP": 122,
     "evolution": [
       {
-        "number": 82,
+        "number": "082",
         "candies": 50
       }
     ],
@@ -2829,7 +2829,7 @@
       "fighting"
     ],
     "name": "Magneton",
-    "number": 82,
+    "number": "082",
     "description": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
     "maxCP": 1879,
     "maxHP": 90,
@@ -2861,7 +2861,7 @@
       "rock"
     ],
     "name": "Farfetch'd",
-    "number": 83,
+    "number": "083",
     "description": "Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
     "maxCP": 1263,
     "maxHP": 94,
@@ -2893,7 +2893,7 @@
       "rock"
     ],
     "name": "Doduo",
-    "number": 84,
+    "number": "084",
     "description": "Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
     "maxCP": 855,
     "maxHP": 67,
@@ -2907,7 +2907,7 @@
     "rankingCP": 127,
     "evolution": [
       {
-        "number": 85,
+        "number": "085",
         "candies": 50
       }
     ],
@@ -2930,7 +2930,7 @@
       "rock"
     ],
     "name": "Dodrio",
-    "number": 85,
+    "number": "085",
     "description": "Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary—it may decide to peck you.",
     "maxCP": 1836,
     "maxHP": 106,
@@ -2960,7 +2960,7 @@
       "grass"
     ],
     "name": "Seel",
-    "number": 86,
+    "number": "086",
     "description": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.",
     "maxCP": 1107,
     "maxHP": 114,
@@ -2974,7 +2974,7 @@
     "rankingCP": 104,
     "evolution": [
       {
-        "number": 87,
+        "number": "087",
         "candies": 50
       }
     ],
@@ -2998,7 +2998,7 @@
       "rock"
     ],
     "name": "Dewgong",
-    "number": 87,
+    "number": "087",
     "description": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
     "maxCP": 2145,
     "maxHP": 154,
@@ -3027,7 +3027,7 @@
       "psychic"
     ],
     "name": "Grimer",
-    "number": 88,
+    "number": "088",
     "description": "Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
     "maxCP": 1284,
     "maxHP": 138,
@@ -3041,7 +3041,7 @@
     "rankingCP": 91,
     "evolution": [
       {
-        "number": 89,
+        "number": "089",
         "candies": 50
       }
     ],
@@ -3061,7 +3061,7 @@
       "psychic"
     ],
     "name": "Muk",
-    "number": 89,
+    "number": "089",
     "description": "From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.",
     "maxCP": 2602,
     "maxHP": 177,
@@ -3091,7 +3091,7 @@
       "grass"
     ],
     "name": "Shellder",
-    "number": 90,
+    "number": "090",
     "description": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
     "maxCP": 822,
     "maxHP": 59,
@@ -3105,7 +3105,7 @@
     "rankingCP": 133,
     "evolution": [
       {
-        "number": 91,
+        "number": "091",
         "candies": 50
       }
     ],
@@ -3129,7 +3129,7 @@
       "rock"
     ],
     "name": "Cloyster",
-    "number": 91,
+    "number": "091",
     "description": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
     "maxCP": 2052,
     "maxHP": 90,
@@ -3161,7 +3161,7 @@
       "psychic"
     ],
     "name": "Gastly",
-    "number": 92,
+    "number": "092",
     "description": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
     "maxCP": 804,
     "maxHP": 59,
@@ -3175,7 +3175,7 @@
     "rankingCP": 134,
     "evolution": [
       {
-        "number": 93,
+        "number": "093",
         "candies": 25
       }
     ],
@@ -3198,7 +3198,7 @@
       "psychic"
     ],
     "name": "Haunter",
-    "number": 93,
+    "number": "093",
     "description": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
     "maxCP": 1380,
     "maxHP": 82,
@@ -3212,7 +3212,7 @@
     "rankingCP": 87,
     "evolution": [
       {
-        "number": 94,
+        "number": "094",
         "candies": 100
       }
     ],
@@ -3235,7 +3235,7 @@
       "psychic"
     ],
     "name": "Gengar",
-    "number": 94,
+    "number": "094",
     "description": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
     "maxCP": 2078,
     "maxHP": 106,
@@ -3272,7 +3272,7 @@
       "steel"
     ],
     "name": "Onix",
-    "number": 95,
+    "number": "095",
     "description": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
     "maxCP": 857,
     "maxHP": 67,
@@ -3302,7 +3302,7 @@
       "ghost"
     ],
     "name": "Drowzee",
-    "number": 96,
+    "number": "096",
     "description": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
     "maxCP": 1075,
     "maxHP": 106,
@@ -3316,7 +3316,7 @@
     "rankingCP": 109,
     "evolution": [
       {
-        "number": 97,
+        "number": "097",
         "candies": 50
       }
     ],
@@ -3337,7 +3337,7 @@
       "ghost"
     ],
     "name": "Hypno",
-    "number": 97,
+    "number": "097",
     "description": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
     "maxCP": 2184,
     "maxHP": 146,
@@ -3367,7 +3367,7 @@
       "grass"
     ],
     "name": "Krabby",
-    "number": 98,
+    "number": "098",
     "description": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
     "maxCP": 792,
     "maxHP": 59,
@@ -3381,7 +3381,7 @@
     "rankingCP": 138,
     "evolution": [
       {
-        "number": 99,
+        "number": "099",
         "candies": 50
       }
     ],
@@ -3402,7 +3402,7 @@
       "grass"
     ],
     "name": "Kingler",
-    "number": 99,
+    "number": "099",
     "description": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
     "maxCP": 1823,
     "maxHP": 98,
