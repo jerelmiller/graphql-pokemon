@@ -3,10 +3,10 @@ module Types
     name 'Query'
     description 'The root query object'
 
-    field :pokemons, Types::PokemonType do
+    field :pokemons, [!Types::PokemonType]! do
       description 'Get all pokemon'
 
-      resolve ->(_, _, _) { Pokemon.all }
+      resolve ->(obj, args, ctx) { ::Pokemon.all.to_a }
     end
   end
 end

@@ -4,8 +4,8 @@ module Types
     description 'A pokemon'
 
     field :id, !types.ID
-    field :name, !types.string
-    field :number, !types.string
-    field :description, types.string
+    field :name, !types.String
+    field :number, !types.String
+    field :description, types.String
   end
 end
