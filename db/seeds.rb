@@ -1,28 +1,27 @@
-normal = Type.create!(name: 'normal')
-fighting = Type.create!(name: 'fighting')
-flying = Type.create!(name: 'flying')
-poison = Type.create!(name: 'poison')
-ground = Type.create!(name: 'ground')
-rock = Type.create!(name: 'rock')
-bug = Type.create!(name: 'bug')
-ghost = Type.create!(name: 'ghost')
-steel = Type.create!(name: 'steel')
-fire = Type.create!(name: 'fire')
-water = Type.create!(name: 'water')
-grass = Type.create!(name: 'grass')
-electric = Type.create!(name: 'electric')
-psychic = Type.create!(name: 'psychic')
-ice = Type.create!(name: 'ice')
-dragon = Type.create!(name: 'dragon')
-dark = Type.create!(name: 'dark')
-fairy = Type.create!(name: 'fairy')
+pokemon_file = Rails.root.join('lib/pokemon.json')
+pokemons = JSON.parse(File.read(pokemon_file))
 
-bulbasaur = Pokemon.create!(
-  name: 'Bulbasaur',
-  number: '001',
-  description: "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger."
-)
+pokemons.each do |pokemon_json|
+  pokemon_json = pokemon_json.with_indifferent_access
 
-bulbasaur.types << [grass, poison]
-bulbasaur.weaknesses << [fire, flying, ice, psychic]
-bulbasaur.strenghts << [water, fairy]
+  pokemon = Pokemon.create!(
+    name: pokemon_json[:name],
+    number: pokemon_json[:number],
+    description: pokemon_json[:description]
+  )
+
+  pokemon_json[:types].each do |type|
+    type = Type.where(name: type).first_or_create!
+    PokemonType.create!(pokemon: pokemon, type: type)
+  end
+
+  pokemon_json[:weaknesses].each do |type|
+    type = Type.where(name: type).first_or_create!
+    PokemonWeakness.create!(pokemon: pokemon, type: type)
+  end
+
+  pokemon_json[:strengths].each do |type|
+    type = Type.where(name: type).first_or_create!
+    PokemonStrength.create!(pokemon: pokemon, type: type)
+  end
+end
