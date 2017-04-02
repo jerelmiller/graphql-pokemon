@@ -49,10 +49,13 @@ ActiveRecord::Schema.define(version: 20170402214323) do
     t.string "number",      null: false
     t.string "name",        null: false
     t.text   "description"
+    t.index ["name"], name: "index_pokemons_on_name", unique: true, using: :btree
+    t.index ["number"], name: "index_pokemons_on_number", unique: true, using: :btree
   end
 
   create_table "types", force: :cascade do |t|
     t.string "name", null: false
+    t.index ["name"], name: "index_types_on_name", unique: true, using: :btree
   end
 
   add_foreign_key "pokemon_strengths", "pokemons"
