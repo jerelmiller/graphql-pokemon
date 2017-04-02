@@ -1,6 +1,9 @@
 class GraphqlController < ApplicationController
-  def create
-    render json: PokemonSchema.execute(params[:query], variables: variables)
+  def execute
+    render json: GraphqlPokemonSchema.execute(
+      params[:query],
+      variables: variables
+    )
   end
 
   private
