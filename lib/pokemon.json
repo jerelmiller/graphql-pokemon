@@ -1,6 +1,5 @@
 [
   {
-    "colorHex": "#399494",
     "types": [
       "grass",
       "poison"
@@ -37,7 +36,6 @@
     "involution": 1
   },
   {
-    "colorHex": "#399494",
     "types": [
       "grass",
       "poison"
@@ -74,7 +72,6 @@
     "involution": 1
   },
   {
-    "colorHex": "#399494",
     "types": [
       "grass",
       "poison"
@@ -106,7 +103,6 @@
     "involution": 1
   },
   {
-    "colorHex": "#FF9441",
     "types": [
       "fire"
     ],
@@ -143,7 +139,6 @@
     "involution": 4
   },
   {
-    "colorHex": "#CD3939",
     "types": [
       "fire"
     ],
@@ -180,7 +175,6 @@
     "involution": 4
   },
   {
-    "colorHex": "#FF9441",
     "types": [
       "fire",
       "flying"
@@ -213,7 +207,6 @@
     "involution": 4
   },
   {
-    "colorHex": "#5596AF",
     "types": [
       "water"
     ],
@@ -248,7 +241,6 @@
     "involution": 7
   },
   {
-    "colorHex": "#627BC5",
     "types": [
       "water"
     ],
@@ -283,7 +275,6 @@
     "involution": 7
   },
   {
-    "colorHex": "#2062AC",
     "types": [
       "water"
     ],
@@ -313,7 +304,6 @@
     "involution": 7
   },
   {
-    "colorHex": "#76A839",
     "types": [
       "bug"
     ],
@@ -349,7 +339,6 @@
     "involution": 10
   },
   {
-    "colorHex": "#76A839",
     "types": [
       "bug"
     ],
@@ -385,7 +374,6 @@
     "involution": 10
   },
   {
-    "colorHex": "#4B4368",
     "types": [
       "bug",
       "flying"
@@ -420,7 +408,6 @@
     "involution": 10
   },
   {
-    "colorHex": "#BD9452",
     "types": [
       "bug",
       "poison"
@@ -458,7 +445,6 @@
     "involution": 13
   },
   {
-    "colorHex": "#FFCD4A",
     "types": [
       "bug",
       "poison"
@@ -496,7 +482,6 @@
     "involution": 13
   },
   {
-    "colorHex": "#FFCD4A",
     "types": [
       "bug",
       "poison"
@@ -529,7 +514,6 @@
     "involution": 13
   },
   {
-    "colorHex": "#A4625A",
     "types": [
       "normal",
       "flying"
@@ -566,7 +550,6 @@
     "involution": 16
   },
   {
-    "colorHex": "#C53129",
     "types": [
       "normal",
       "flying"
@@ -603,7 +586,6 @@
     "involution": 16
   },
   {
-    "colorHex": "#C53129",
     "types": [
       "normal",
       "flying"
@@ -635,7 +617,6 @@
     "involution": 16
   },
   {
-    "colorHex": "#9C73A4",
     "types": [
       "normal"
     ],
@@ -665,7 +646,6 @@
     "involution": 19
   },
   {
-    "colorHex": "#947B52",
     "types": [
       "normal"
     ],
@@ -690,7 +670,6 @@
     "involution": 19
   },
   {
-    "colorHex": "#A46A6A",
     "types": [
       "normal",
       "flying"
@@ -727,7 +706,6 @@
     "involution": 21
   },
   {
-    "colorHex": "#7B6262",
     "types": [
       "normal",
       "flying"
@@ -759,7 +737,6 @@
     "involution": 21
   },
   {
-    "colorHex": "#7B527B",
     "types": [
       "poison"
     ],
@@ -793,7 +770,6 @@
     "involution": 23
   },
   {
-    "colorHex": "#837B94",
     "types": [
       "poison"
     ],
@@ -822,7 +798,6 @@
     "involution": 23
   },
   {
-    "colorHex": "#F6BD20",
     "types": [
       "electric"
     ],
@@ -855,7 +830,6 @@
     "involution": 25
   },
   {
-    "colorHex": "#F6AC29",
     "types": [
       "electric"
     ],
@@ -883,7 +857,6 @@
     "involution": 25
   },
   {
-    "colorHex": "#AC9C62",
     "types": [
       "ground"
     ],
@@ -921,7 +894,6 @@
     "involution": 27
   },
   {
-    "colorHex": "#AC944A",
     "types": [
       "ground"
     ],
@@ -954,7 +926,6 @@
     "involution": 27
   },
   {
-    "colorHex": "#8383AC",
     "types": [
       "poison"
     ],
@@ -988,7 +959,6 @@
     "involution": 29
   },
   {
-    "colorHex": "#62839C",
     "types": [
       "poison"
     ],
@@ -1022,7 +992,6 @@
     "involution": 29
   },
   {
-    "colorHex": "#527BA4",
     "types": [
       "poison",
       "ground"
@@ -1055,7 +1024,6 @@
     "involution": 29
   },
   {
-    "colorHex": "#8B5A8B",
     "types": [
       "poison"
     ],
@@ -1089,7 +1057,6 @@
     "involution": 32
   },
   {
-    "colorHex": "#946A94",
     "types": [
       "poison"
     ],
@@ -1123,7 +1090,6 @@
     "involution": 32
   },
   {
-    "colorHex": "#A46A9C",
     "types": [
       "poison",
       "ground"
@@ -1156,7 +1122,6 @@
     "involution": 32
   },
   {
-    "colorHex": "#FFACAC",
     "types": [
       "fairy"
     ],
@@ -1191,7 +1156,6 @@
     "involution": 35
   },
   {
-    "colorHex": "#EE9494",
     "types": [
       "fairy"
     ],
@@ -1221,7 +1185,6 @@
     "involution": 35
   },
   {
-    "colorHex": "#bc7b5b",
     "types": [
       "fire"
     ],
@@ -1258,7 +1221,6 @@
     "involution": 37
   },
   {
-    "colorHex": "#8B8352",
     "types": [
       "fire"
     ],
@@ -1290,7 +1252,6 @@
     "involution": 37
   },
   {
-    "colorHex": "#f2cdd7",
     "types": [
       "normal",
       "fairy"
@@ -1326,7 +1287,6 @@
     "involution": 39
   },
   {
-    "colorHex": "#F67B94",
     "types": [
       "normal",
       "fairy"
@@ -1357,7 +1317,6 @@
     "involution": 39
   },
   {
-    "colorHex": "#8B4A83",
     "types": [
       "poison",
       "flying"
@@ -1396,7 +1355,6 @@
     "involution": 41
   },
   {
-    "colorHex": "#944A8B",
     "types": [
       "poison",
       "flying"
@@ -1430,7 +1388,6 @@
     "involution": 41
   },
   {
-    "colorHex": "#7BB45A",
     "types": [
       "grass",
       "poison"
@@ -1467,7 +1424,6 @@
     "involution": 43
   },
   {
-    "colorHex": "#4A7394",
     "types": [
       "grass",
       "poison"
@@ -1504,7 +1460,6 @@
     "involution": 43
   },
   {
-    "colorHex": "#415A7B",
     "types": [
       "grass",
       "poison"
@@ -1536,7 +1491,6 @@
     "involution": 43
   },
   {
-    "colorHex": "#A4526A",
     "types": [
       "grass",
       "bug"
@@ -1578,7 +1532,6 @@
     "involution": 46
   },
   {
-    "colorHex": "#9C4A6A",
     "types": [
       "grass",
       "bug"
@@ -1615,7 +1568,6 @@
     "involution": 46
   },
   {
-    "colorHex": "#625A94",
     "types": [
       "poison",
       "bug"
@@ -1653,7 +1605,6 @@
     "involution": 48
   },
   {
-    "colorHex": "#736A8B",
     "types": [
       "poison",
       "bug"
@@ -1686,7 +1637,6 @@
     "involution": 48
   },
   {
-    "colorHex": "#737373",
     "types": [
       "ground"
     ],
@@ -1724,7 +1674,6 @@
     "involution": 50
   },
   {
-    "colorHex": "#6A6A6A",
     "types": [
       "ground"
     ],
@@ -1757,7 +1706,6 @@
     "involution": 50
   },
   {
-    "colorHex": "#837373",
     "types": [
       "normal"
     ],
@@ -1787,7 +1735,6 @@
     "involution": 52
   },
   {
-    "colorHex": "#9C8B6A",
     "types": [
       "normal"
     ],
@@ -1812,7 +1759,6 @@
     "involution": 52
   },
   {
-    "colorHex": "#B49452",
     "types": [
       "water"
     ],
@@ -1847,7 +1793,6 @@
     "involution": 54
   },
   {
-    "colorHex": "#4A739C",
     "types": [
       "water"
     ],
@@ -1877,7 +1822,6 @@
     "involution": 54
   },
   {
-    "colorHex": "#948B7B",
     "types": [
       "fighting"
     ],
@@ -1915,7 +1859,6 @@
     "involution": 56
   },
   {
-    "colorHex": "#6A5A5A",
     "types": [
       "fighting"
     ],
@@ -1948,7 +1891,6 @@
     "involution": 56
   },
   {
-    "colorHex": "#C55252",
     "types": [
       "fire"
     ],
@@ -1985,7 +1927,6 @@
     "involution": 58
   },
   {
-    "colorHex": "#EE7331",
     "types": [
       "fire"
     ],
@@ -2017,7 +1958,6 @@
     "involution": 58
   },
   {
-    "colorHex": "#5A7BB4",
     "types": [
       "water"
     ],
@@ -2052,7 +1992,6 @@
     "involution": 60
   },
   {
-    "colorHex": "#527BB4",
     "types": [
       "water"
     ],
@@ -2087,7 +2026,6 @@
     "involution": 60
   },
   {
-    "colorHex": "#5A7BA4",
     "types": [
       "water",
       "fighting"
@@ -2125,7 +2063,6 @@
     "involution": 60
   },
   {
-    "colorHex": "#BD9CE6",
     "types": [
       "psychic"
     ],
@@ -2160,7 +2097,6 @@
     "involution": 63
   },
   {
-    "colorHex": "#BD9CE6",
     "types": [
       "psychic"
     ],
@@ -2195,7 +2131,6 @@
     "involution": 63
   },
   {
-    "colorHex": "#BD9CE6",
     "types": [
       "psychic"
     ],
@@ -2225,7 +2160,6 @@
     "involution": 63
   },
   {
-    "colorHex": "#7B8B94",
     "types": [
       "fighting"
     ],
@@ -2263,7 +2197,6 @@
     "involution": 66
   },
   {
-    "colorHex": "#83839C",
     "types": [
       "fighting"
     ],
@@ -2301,7 +2234,6 @@
     "involution": 66
   },
   {
-    "colorHex": "#737B8B",
     "types": [
       "fighting"
     ],
@@ -2334,7 +2266,6 @@
     "involution": 66
   },
   {
-    "colorHex": "#73A46A",
     "types": [
       "grass",
       "poison"
@@ -2371,7 +2302,6 @@
     "involution": 69
   },
   {
-    "colorHex": "#73945A",
     "types": [
       "grass",
       "poison"
@@ -2408,7 +2338,6 @@
     "involution": 69
   },
   {
-    "colorHex": "#5A9452",
     "types": [
       "grass",
       "poison"
@@ -2440,7 +2369,6 @@
     "involution": 69
   },
   {
-    "colorHex": "#4A83A4",
     "types": [
       "water",
       "poison"
@@ -2476,7 +2404,6 @@
     "involution": 72
   },
   {
-    "colorHex": "#7B7373",
     "types": [
       "water",
       "poison"
@@ -2507,7 +2434,6 @@
     "involution": 72
   },
   {
-    "colorHex": "#7B7373",
     "types": [
       "rock",
       "ground"
@@ -2549,7 +2475,6 @@
     "involution": 74
   },
   {
-    "colorHex": "#8B9483",
     "types": [
       "rock",
       "ground"
@@ -2591,7 +2516,6 @@
     "involution": 74
   },
   {
-    "colorHex": "#5A5252",
     "types": [
       "rock",
       "ground"
@@ -2628,7 +2552,6 @@
     "involution": 74
   },
   {
-    "colorHex": "#E65A29",
     "types": [
       "fire"
     ],
@@ -2665,7 +2588,6 @@
     "involution": 77
   },
   {
-    "colorHex": "#E65A29",
     "types": [
       "fire"
     ],
@@ -2697,7 +2619,6 @@
     "involution": 77
   },
   {
-    "colorHex": "#DE627B",
     "types": [
       "water",
       "psychic"
@@ -2738,7 +2659,6 @@
     "involution": 79
   },
   {
-    "colorHex": "#DE627B",
     "types": [
       "water",
       "psychic"
@@ -2774,7 +2694,6 @@
     "involution": 79
   },
   {
-    "colorHex": "#B4D5BD",
     "types": [
       "electric",
       "steel"
@@ -2812,7 +2731,6 @@
     "involution": 81
   },
   {
-    "colorHex": "#B4D5BD",
     "types": [
       "electric",
       "steel"
@@ -2845,7 +2763,6 @@
     "involution": 81
   },
   {
-    "colorHex": "#9CAC52",
     "types": [
       "normal",
       "flying"
@@ -2877,7 +2794,6 @@
     "involution": 83
   },
   {
-    "colorHex": "#8B836A",
     "types": [
       "normal",
       "flying"
@@ -2914,7 +2830,6 @@
     "involution": 84
   },
   {
-    "colorHex": "#A46A62",
     "types": [
       "normal",
       "flying"
@@ -2946,7 +2861,6 @@
     "involution": 84
   },
   {
-    "colorHex": "#7B7B7B",
     "types": [
       "water"
     ],
@@ -2981,7 +2895,6 @@
     "involution": 86
   },
   {
-    "colorHex": "#737B83",
     "types": [
       "water",
       "ice"
@@ -3014,7 +2927,6 @@
     "involution": 86
   },
   {
-    "colorHex": "#7B6283",
     "types": [
       "poison"
     ],
@@ -3048,7 +2960,6 @@
     "involution": 88
   },
   {
-    "colorHex": "#6A5A73",
     "types": [
       "poison"
     ],
@@ -3077,7 +2988,6 @@
     "involution": 88
   },
   {
-    "colorHex": "#6A629C",
     "types": [
       "water"
     ],
@@ -3112,7 +3022,6 @@
     "involution": 90
   },
   {
-    "colorHex": "#7B738B",
     "types": [
       "water",
       "ice"
@@ -3145,7 +3054,6 @@
     "involution": 90
   },
   {
-    "colorHex": "#8B6A94",
     "types": [
       "ghost",
       "poison"
@@ -3182,7 +3090,6 @@
     "involution": 92
   },
   {
-    "colorHex": "#736283",
     "types": [
       "ghost",
       "poison"
@@ -3219,7 +3126,6 @@
     "involution": 92
   },
   {
-    "colorHex": "#6A628B",
     "types": [
       "ghost",
       "poison"
@@ -3251,7 +3157,6 @@
     "involution": 92
   },
   {
-    "colorHex": "#524A5A",
     "types": [
       "ground",
       "rock"
@@ -3288,7 +3193,6 @@
     "involution": 95
   },
   {
-    "colorHex": "#948B73",
     "types": [
       "psychic"
     ],
@@ -3323,7 +3227,6 @@
     "involution": 96
   },
   {
-    "colorHex": "#BDAC5A",
     "types": [
       "psychic"
     ],
@@ -3353,7 +3256,6 @@
     "involution": 96
   },
   {
-    "colorHex": "#9C8B8B",
     "types": [
       "water"
     ],
@@ -3388,7 +3290,6 @@
     "involution": 98
   },
   {
-    "colorHex": "#736A6A",
     "types": [
       "water"
     ],
@@ -3418,7 +3319,6 @@
     "involution": 98
   },
   {
-    "colorHex": "#FF5220",
     "types": [
       "electric"
     ],
@@ -3451,7 +3351,6 @@
     "involution": 100
   },
   {
-    "colorHex": "#FF5220",
     "types": [
       "electric"
     ],
@@ -3479,7 +3378,6 @@
     "involution": 100
   },
   {
-    "colorHex": "#EE8362",
     "types": [
       "grass",
       "psychic"
@@ -3521,7 +3419,6 @@
     "involution": 102
   },
   {
-    "colorHex": "#5A9C5A",
     "types": [
       "grass",
       "psychic"
@@ -3558,7 +3455,6 @@
     "involution": 102
   },
   {
-    "colorHex": "#A48B5A",
     "types": [
       "ground"
     ],
@@ -3596,7 +3492,6 @@
     "involution": 104
   },
   {
-    "colorHex": "#B4ACAC",
     "types": [
       "ground"
     ],
@@ -3629,7 +3524,6 @@
     "involution": 104
   },
   {
-    "colorHex": "#8B7B7B",
     "types": [
       "fighting"
     ],
@@ -3662,7 +3556,6 @@
     "involution": 106
   },
   {
-    "colorHex": "#9494A4",
     "types": [
       "fighting"
     ],
@@ -3695,7 +3588,6 @@
     "involution": 107
   },
   {
-    "colorHex": "#B4838B",
     "types": [
       "normal"
     ],
@@ -3720,7 +3612,6 @@
     "involution": 108
   },
   {
-    "colorHex": "#BD7BB4",
     "types": [
       "poison"
     ],
@@ -3753,7 +3644,6 @@
     "involution": 109
   },
   {
-    "colorHex": "#BD7BB4",
     "types": [
       "poison"
     ],
@@ -3781,7 +3671,6 @@
     "involution": 109
   },
   {
-    "colorHex": "#838B94",
     "types": [
       "rock",
       "ground"
@@ -3823,7 +3712,6 @@
     "involution": 111
   },
   {
-    "colorHex": "#7B7B8B",
     "types": [
       "rock",
       "ground"
@@ -3860,7 +3748,6 @@
     "involution": 111
   },
   {
-    "colorHex": "#FFACAC",
     "types": [
       "rock",
       "ground"
@@ -3892,7 +3779,6 @@
     "involution": 113
   },
   {
-    "colorHex": "#4A6A83",
     "types": [
       "grass"
     ],
@@ -3925,7 +3811,6 @@
     "involution": 114
   },
   {
-    "colorHex": "#735A62",
     "types": [
       "normal"
     ],
@@ -3950,7 +3835,6 @@
     "involution": 115
   },
   {
-    "colorHex": "#528BAC",
     "types": [
       "water"
     ],
@@ -3985,7 +3869,6 @@
     "involution": 116
   },
   {
-    "colorHex": "#52839C",
     "types": [
       "water"
     ],
@@ -4015,7 +3898,6 @@
     "involution": 116
   },
   {
-    "colorHex": "#ACA4B4",
     "types": [
       "water"
     ],
@@ -4050,7 +3932,6 @@
     "involution": 118
   },
   {
-    "colorHex": "#8B8B94",
     "types": [
       "water"
     ],
@@ -4080,7 +3961,6 @@
     "involution": 118
   },
   {
-    "colorHex": "#9C8B4A",
     "types": [
       "water"
     ],
@@ -4115,7 +3995,6 @@
     "involution": 120
   },
   {
-    "colorHex": "#736A83",
     "types": [
       "water",
       "psychic"
@@ -4151,7 +4030,6 @@
     "involution": 120
   },
   {
-    "colorHex": "#527394",
     "types": [
       "fairy",
       "psychic"
@@ -4182,7 +4060,6 @@
     "involution": 122
   },
   {
-    "colorHex": "#739C62",
     "types": [
       "bug",
       "flying"
@@ -4217,7 +4094,6 @@
     "involution": 123
   },
   {
-    "colorHex": "#9473A4",
     "types": [
       "ice",
       "psychic"
@@ -4253,7 +4129,6 @@
     "involution": 124
   },
   {
-    "colorHex": "#9C8352",
     "types": [
       "electric"
     ],
@@ -4281,7 +4156,6 @@
     "involution": 125
   },
   {
-    "colorHex": "#CD1041",
     "types": [
       "fire"
     ],
@@ -4313,7 +4187,6 @@
     "involution": 126
   },
   {
-    "colorHex": "#5A4A4A",
     "types": [
       "bug"
     ],
@@ -4344,7 +4217,6 @@
     "involution": 127
   },
   {
-    "colorHex": "#5A5A83",
     "types": [
       "normal"
     ],
@@ -4369,7 +4241,6 @@
     "involution": 128
   },
   {
-    "colorHex": "#948B8B",
     "types": [
       "water"
     ],
@@ -4404,7 +4275,6 @@
     "involution": 129
   },
   {
-    "colorHex": "#5A839C",
     "types": [
       "water",
       "flying"
@@ -4436,7 +4306,6 @@
     "involution": 129
   },
   {
-    "colorHex": "#838383",
     "types": [
       "water",
       "ice"
@@ -4469,7 +4338,6 @@
     "involution": 131
   },
   {
-    "colorHex": "#837394",
     "types": [
       "normal"
     ],
@@ -4494,7 +4362,6 @@
     "involution": 132
   },
   {
-    "colorHex": "#A48B5A",
     "types": [
       "normal"
     ],
@@ -4532,7 +4399,6 @@
     "involution": 133
   },
   {
-    "colorHex": "#62A4B4",
     "types": [
       "water"
     ],
@@ -4562,7 +4428,6 @@
     "involution": 133
   },
   {
-    "colorHex": "#AC9452",
     "types": [
       "electric"
     ],
@@ -4590,7 +4455,6 @@
     "involution": 133
   },
   {
-    "colorHex": "#AC9C62",
     "types": [
       "fire"
     ],
@@ -4622,7 +4486,6 @@
     "involution": 133
   },
   {
-    "colorHex": "#4A8B9C",
     "types": [
       "normal"
     ],
@@ -4647,7 +4510,6 @@
     "involution": 137
   },
   {
-    "colorHex": "#9C946A",
     "types": [
       "rock",
       "water"
@@ -4687,7 +4549,6 @@
     "involution": 138
   },
   {
-    "colorHex": "#4A8394",
     "types": [
       "rock",
       "water"
@@ -4722,7 +4583,6 @@
     "involution": 138
   },
   {
-    "colorHex": "#836A41",
     "types": [
       "rock",
       "water"
@@ -4762,7 +4622,6 @@
     "involution": 140
   },
   {
-    "colorHex": "#9C8B6A",
     "types": [
       "rock",
       "water"
@@ -4797,7 +4656,6 @@
     "involution": 140
   },
   {
-    "colorHex": "#7B6A7B",
     "types": [
       "rock",
       "flying"
@@ -4833,7 +4691,6 @@
     "involution": 142
   },
   {
-    "colorHex": "#4A7B8B",
     "types": [
       "normal"
     ],
@@ -4858,7 +4715,6 @@
     "involution": 143
   },
   {
-    "colorHex": "#395A7B",
     "types": [
       "ice",
       "flying"
@@ -4894,7 +4750,6 @@
     "involution": 144
   },
   {
-    "colorHex": "#B49C52",
     "types": [
       "electric",
       "flying"
@@ -4926,7 +4781,6 @@
     "involution": 145
   },
   {
-    "colorHex": "#8B5A52",
     "types": [
       "fire",
       "flying"
@@ -4959,7 +4813,6 @@
     "involution": 146
   },
   {
-    "colorHex": "#626AA4",
     "types": [
       "dragon"
     ],
@@ -4993,7 +4846,6 @@
     "involution": 147
   },
   {
-    "colorHex": "#5A7394",
     "types": [
       "dragon"
     ],
@@ -5027,7 +4879,6 @@
     "involution": 147
   },
   {
-    "colorHex": "#DE7339",
     "types": [
       "dragon",
       "flying"
@@ -5061,7 +4912,6 @@
     "involution": 147
   },
   {
-    "colorHex": "#6A319C",
     "types": [
       "psychic"
     ],
@@ -5091,7 +4941,6 @@
     "involution": 150
   },
   {
-    "colorHex": "#FFB4D5",
     "types": [
       "psychic"
     ],
