@@ -15,41 +15,50 @@ ActiveRecord::Schema.define(version: 20170402214323) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
+  create_table "pokemon_strengths", force: :cascade do |t|
+    t.integer  "pokemon_id"
+    t.integer  "type_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["pokemon_id", "type_id"], name: "index_pokemon_strengths_on_pokemon_id_and_type_id", unique: true, using: :btree
+    t.index ["pokemon_id"], name: "index_pokemon_strengths_on_pokemon_id", using: :btree
+    t.index ["type_id"], name: "index_pokemon_strengths_on_type_id", using: :btree
+  end
+
+  create_table "pokemon_types", force: :cascade do |t|
+    t.integer  "pokemon_id"
+    t.integer  "type_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["pokemon_id", "type_id"], name: "index_pokemon_types_on_pokemon_id_and_type_id", unique: true, using: :btree
+    t.index ["pokemon_id"], name: "index_pokemon_types_on_pokemon_id", using: :btree
+    t.index ["type_id"], name: "index_pokemon_types_on_type_id", using: :btree
+  end
+
+  create_table "pokemon_weaknesses", force: :cascade do |t|
+    t.integer  "pokemon_id"
+    t.integer  "type_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["pokemon_id", "type_id"], name: "index_pokemon_weaknesses_on_pokemon_id_and_type_id", unique: true, using: :btree
+    t.index ["pokemon_id"], name: "index_pokemon_weaknesses_on_pokemon_id", using: :btree
+    t.index ["type_id"], name: "index_pokemon_weaknesses_on_type_id", using: :btree
+  end
+
   create_table "pokemons", force: :cascade do |t|
     t.string "number",      null: false
     t.string "name",        null: false
     t.text   "description"
   end
 
-  create_table "pokemons_strengths", force: :cascade do |t|
-    t.integer  "pokemons_id"
-    t.integer  "types_id"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
-    t.index ["pokemons_id"], name: "index_pokemons_strengths_on_pokemons_id", using: :btree
-    t.index ["types_id"], name: "index_pokemons_strengths_on_types_id", using: :btree
-  end
-
-  create_table "pokemons_types", force: :cascade do |t|
-    t.integer  "pokemons_id"
-    t.integer  "types_id"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
-    t.index ["pokemons_id"], name: "index_pokemons_types_on_pokemons_id", using: :btree
-    t.index ["types_id"], name: "index_pokemons_types_on_types_id", using: :btree
-  end
-
-  create_table "pokemons_weaknesses", force: :cascade do |t|
-    t.integer  "pokemons_id"
-    t.integer  "types_id"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
-    t.index ["pokemons_id"], name: "index_pokemons_weaknesses_on_pokemons_id", using: :btree
-    t.index ["types_id"], name: "index_pokemons_weaknesses_on_types_id", using: :btree
-  end
-
   create_table "types", force: :cascade do |t|
     t.string "name", null: false
   end
 
+  add_foreign_key "pokemon_strengths", "pokemons"
+  add_foreign_key "pokemon_strengths", "types"
+  add_foreign_key "pokemon_types", "pokemons"
+  add_foreign_key "pokemon_types", "types"
+  add_foreign_key "pokemon_weaknesses", "pokemons"
+  add_foreign_key "pokemon_weaknesses", "types"
 end
