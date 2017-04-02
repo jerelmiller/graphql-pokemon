@@ -13,6 +13,7 @@ gem 'graphql', '~> 1.5.5'
 
 group :development, :test do
   gem 'byebug', platform: :mri
+  gem 'pry-rails', '~> 0.3.5'
 end
 
 group :development do
