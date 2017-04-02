@@ -8,7 +8,8 @@ end
 gem 'rails', '~> 5.0.2'
 gem 'pg'
 gem 'puma', '~> 3.0'
-gem 'rack-cors'
+gem 'rack-cors', '~> 0.4.1'
+gem 'graphql', '~> 1.5.5'
 
 group :development, :test do
   gem 'byebug', platform: :mri
