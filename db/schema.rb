@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170403032729) do
+ActiveRecord::Schema.define(version: 20170403032953) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -45,13 +45,15 @@ ActiveRecord::Schema.define(version: 20170403032729) do
   end
 
   create_table "pokemon_moves", force: :cascade do |t|
-    t.integer  "pokemon_id", null: false
-    t.integer  "move_id",    null: false
-    t.integer  "level",      null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.integer  "pokemon_id",     null: false
+    t.integer  "move_id",        null: false
+    t.integer  "level",          null: false
+    t.datetime "created_at",     null: false
+    t.datetime "updated_at",     null: false
+    t.integer  "move_method_id", null: false
     t.index ["move_id"], name: "index_pokemon_moves_on_move_id", using: :btree
-    t.index ["pokemon_id", "move_id"], name: "index_pokemon_moves_on_pokemon_id_and_move_id", unique: true, using: :btree
+    t.index ["move_method_id"], name: "index_pokemon_moves_on_move_method_id", using: :btree
+    t.index ["pokemon_id", "move_id", "move_method_id"], name: "index_pokemon_move_pokemon_move", unique: true, using: :btree
     t.index ["pokemon_id"], name: "index_pokemon_moves_on_pokemon_id", using: :btree
   end
 
@@ -106,6 +108,7 @@ ActiveRecord::Schema.define(version: 20170403032729) do
 
   add_foreign_key "moves", "effects"
   add_foreign_key "moves", "types"
+  add_foreign_key "pokemon_moves", "move_methods"
   add_foreign_key "pokemon_moves", "moves"
   add_foreign_key "pokemon_moves", "pokemons"
   add_foreign_key "pokemon_strengths", "pokemons"
