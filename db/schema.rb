@@ -10,13 +10,25 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170403020101) do
+ActiveRecord::Schema.define(version: 20170403020227) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "effects", force: :cascade do |t|
     t.text "description", null: false
+  end
+
+  create_table "moves", force: :cascade do |t|
+    t.integer "type_id",       null: false
+    t.integer "effect_id",     null: false
+    t.string  "name",          null: false
+    t.integer "power"
+    t.integer "pp",            null: false
+    t.integer "accuracy"
+    t.integer "effect_chance"
+    t.index ["effect_id"], name: "index_moves_on_effect_id", using: :btree
+    t.index ["type_id"], name: "index_moves_on_type_id", using: :btree
   end
 
   create_table "pokemon_strengths", force: :cascade do |t|
@@ -68,6 +80,8 @@ ActiveRecord::Schema.define(version: 20170403020101) do
     t.index ["name"], name: "index_types_on_name", unique: true, using: :btree
   end
 
+  add_foreign_key "moves", "effects"
+  add_foreign_key "moves", "types"
   add_foreign_key "pokemon_strengths", "pokemons"
   add_foreign_key "pokemon_strengths", "types"
   add_foreign_key "pokemon_types", "pokemons"
