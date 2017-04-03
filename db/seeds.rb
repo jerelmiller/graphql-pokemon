@@ -6,6 +6,7 @@ ActiveRecord::Base.transaction do
   mapped_effects = {}
   cached_types = {}
   mapped_move_methods = {}
+  cached_pokemon = {}
 
   pokemons.flat_map do |pokemon_json|
     pokemon_json['types'] +
@@ -25,8 +26,11 @@ ActiveRecord::Base.transaction do
       hp: pokemon_json[:hp],
       special_attack: pokemon_json[:special_attack],
       special_defense: pokemon_json[:special_defense],
-      speed: pokemon_json[:speed]
+      speed: pokemon_json[:speed],
+      parent: cached_pokemon[pokemon_json[:involution]]
     )
+
+    cached_pokemon[pokemon_json[:number]] = pokemon
 
     pokemon_json[:types].each do |type|
       PokemonType.create!(pokemon: pokemon, type: cached_types[type])
