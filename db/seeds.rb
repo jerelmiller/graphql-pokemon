@@ -2,7 +2,6 @@ pokemon_file = Rails.root.join('lib/pokemon.json')
 pokemons = JSON.parse(File.read(pokemon_file))
 pokemons = pokemons.map(&:with_indifferent_access)
 
-
 ActiveRecord::Base.transaction do
   mapped_effects = {}
   cached_types = {}
