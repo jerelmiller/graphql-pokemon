@@ -24,4 +24,8 @@ class Pokemon < ApplicationRecord
     :special_defense,
     :speed,
     presence: true
+
+  def evolutions
+    root.self_and_descendants
+  end
 end

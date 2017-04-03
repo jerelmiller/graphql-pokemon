@@ -30,4 +30,8 @@ Types::PokemonType = GraphQL::ObjectType.define do
     description 'Moves performed by pokemon'
     resolve ->(pokemon, args, ctx) { pokemon.pokemon_moves }
   end
+
+  field :evolutions, ->{ types[Types::PokemonType] } do
+    description 'Evolutions of the pokemon'
+  end
 end
