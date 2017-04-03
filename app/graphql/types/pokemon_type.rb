@@ -25,4 +25,9 @@ Types::PokemonType = GraphQL::ObjectType.define do
     description 'Pokemon strengths'
     resolve ->(pokemon, args, ctx) { pokemon.strengths.pluck(:name) }
   end
+
+  field :moves, types[Types::PokemonMoveType] do
+    description 'Moves performed by pokemon'
+    resolve ->(pokemon, args, ctx) { pokemon.pokemon_moves }
+  end
 end
