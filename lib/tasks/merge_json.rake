@@ -5,6 +5,7 @@ pokemon_moves_csv = Rails.root.join('lib/pokemon_moves.csv')
 types_csv = Rails.root.join('lib/types.csv')
 move_effect_prose = Rails.root.join('lib/move_effect_prose.csv')
 pokemon_move_methods_prose = Rails.root.join('lib/pokemon_move_method_prose.csv')
+pokemon_species_csv = Rails.root.join('lib/pokemon_species.csv')
 
 ENGLISH_ID = '9'
 
@@ -15,6 +16,7 @@ task :merge_json do
   types = CSV.read(types_csv, headers: true)
   move_effects = CSV.read(move_effect_prose, headers: true)
   pokemon_move_methods = CSV.read(pokemon_move_methods_prose, headers: true)
+  species = CSV.read(pokemon_species_csv, headers: true)
 
   pokemon_moves =
     pokemon_moves.select do |pokemon_move|
@@ -26,11 +28,25 @@ task :merge_json do
     move_effect['local_language_id'] == ENGLISH_ID
   end
 
+  species =
+    species.select { |specimen| specimen['generation_id'] == '1' }
+
   pokemon_move_methods = pokemon_move_methods.select do |move_method|
     move_method['local_language_id'] == ENGLISH_ID
   end
 
   pokemons.each_with_index do |pokemon_entry, idx|
+    evolution_chain_id =
+      species.find do |specimen|
+        specimen['id'] == pokemon_entry['number'].to_i.to_s
+      end['evolution_chain_id']
+
+    evolution_chain =
+      species
+        .select { |specimen| specimen['evolution_chain_id'] == evolution_chain_id }
+        .map{ |specimen| specimen['id'].rjust(3, '0') }
+
+    pokemon_entry['evolution_chain'] = evolution_chain
     pokemon_entry['moves'] = []
 
     if pokemon_moves[pokemon_entry['number'].to_i.to_s].blank?

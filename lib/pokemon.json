@@ -464,6 +464,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "001",
+      "002",
+      "003"
     ]
   },
   {
@@ -949,6 +954,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "001",
+      "002",
+      "003"
     ]
   },
   {
@@ -1467,6 +1477,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "001",
+      "002",
+      "003"
     ]
   },
   {
@@ -2078,6 +2093,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "004",
+      "005",
+      "006"
     ]
   },
   {
@@ -2707,6 +2727,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "004",
+      "005",
+      "006"
     ]
   },
   {
@@ -3406,6 +3431,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "004",
+      "005",
+      "006"
     ]
   },
   {
@@ -4015,6 +4045,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "007",
+      "008",
+      "009"
     ]
   },
   {
@@ -4642,6 +4677,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "007",
+      "008",
+      "009"
     ]
   },
   {
@@ -5338,6 +5378,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "007",
+      "008",
+      "009"
     ]
   },
   {
@@ -5408,6 +5453,11 @@
           "description": "Learned when a Pokémon reaches a certain level."
         }
       }
+    ],
+    "evolution_chain": [
+      "010",
+      "011",
+      "012"
     ]
   },
   {
@@ -5460,6 +5510,11 @@
           "description": "Learned when a Pokémon reaches a certain level."
         }
       }
+    ],
+    "evolution_chain": [
+      "010",
+      "011",
+      "012"
     ]
   },
   {
@@ -5981,6 +6036,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "010",
+      "011",
+      "012"
     ]
   },
   {
@@ -6053,6 +6113,11 @@
           "description": "Learned when a Pokémon reaches a certain level."
         }
       }
+    ],
+    "evolution_chain": [
+      "013",
+      "014",
+      "015"
     ]
   },
   {
@@ -6107,6 +6172,11 @@
           "description": "Learned when a Pokémon reaches a certain level."
         }
       }
+    ],
+    "evolution_chain": [
+      "013",
+      "014",
+      "015"
     ]
   },
   {
@@ -6554,6 +6624,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "013",
+      "014",
+      "015"
     ]
   },
   {
@@ -6985,6 +7060,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "016",
+      "017",
+      "018"
     ]
   },
   {
@@ -7434,6 +7514,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "016",
+      "017",
+      "018"
     ]
   },
   {
@@ -7916,6 +8001,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "016",
+      "017",
+      "018"
     ]
   },
   {
@@ -8378,6 +8468,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "019",
+      "020"
     ]
   },
   {
@@ -8891,6 +8985,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "019",
+      "020"
     ]
   },
   {
@@ -9304,6 +9402,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "021",
+      "022"
     ]
   },
   {
@@ -9750,6 +9852,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "021",
+      "022"
     ]
   },
   {
@@ -10214,6 +10320,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "023",
+      "024"
     ]
   },
   {
@@ -10711,6 +10821,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "023",
+      "024"
     ]
   },
   {
@@ -11282,6 +11396,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "025",
+      "026"
     ]
   },
   {
@@ -11778,6 +11896,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "025",
+      "026"
     ]
   },
   {
@@ -12300,6 +12422,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "027",
+      "028"
     ]
   },
   {
@@ -12855,6 +12981,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "027",
+      "028"
     ]
   },
   {
@@ -13301,6 +13431,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "029",
+      "030",
+      "031"
     ]
   },
   {
@@ -13837,6 +13972,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "029",
+      "030",
+      "031"
     ]
   },
   {
@@ -14572,6 +14712,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "029",
+      "030",
+      "031"
     ]
   },
   {
@@ -15036,6 +15181,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "032",
+      "033",
+      "034"
     ]
   },
   {
@@ -15572,6 +15722,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "032",
+      "033",
+      "034"
     ]
   },
   {
@@ -16307,6 +16462,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "032",
+      "033",
+      "034"
     ]
   },
   {
@@ -17078,6 +17238,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "035",
+      "036"
     ]
   },
   {
@@ -17792,6 +17956,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "035",
+      "036"
     ]
   },
   {
@@ -18223,6 +18391,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "037",
+      "038"
     ]
   },
   {
@@ -18615,6 +18787,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "037",
+      "038"
     ]
   },
   {
@@ -19369,6 +19545,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "039",
+      "040"
     ]
   },
   {
@@ -20066,6 +20246,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "039",
+      "040"
     ]
   },
   {
@@ -20445,6 +20629,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "041",
+      "042"
     ]
   },
   {
@@ -20875,6 +21063,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "041",
+      "042"
     ]
   },
   {
@@ -21288,6 +21480,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "043",
+      "044",
+      "045"
     ]
   },
   {
@@ -21737,6 +21934,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "043",
+      "044",
+      "045"
     ]
   },
   {
@@ -22183,6 +22385,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "043",
+      "044",
+      "045"
     ]
   },
   {
@@ -22637,6 +22844,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "046",
+      "047"
     ]
   },
   {
@@ -23142,6 +23353,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "046",
+      "047"
     ]
   },
   {
@@ -23574,6 +23789,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "048",
+      "049"
     ]
   },
   {
@@ -24129,6 +24348,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "048",
+      "049"
     ]
   },
   {
@@ -24525,6 +24748,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "050",
+      "051"
     ]
   },
   {
@@ -24972,6 +25199,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "050",
+      "051"
     ]
   },
   {
@@ -25434,6 +25665,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "052",
+      "053"
     ]
   },
   {
@@ -25947,6 +26182,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "052",
+      "053"
     ]
   },
   {
@@ -26538,6 +26777,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "054",
+      "055"
     ]
   },
   {
@@ -27180,6 +27423,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "054",
+      "055"
     ]
   },
   {
@@ -27774,6 +28021,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "056",
+      "057"
     ]
   },
   {
@@ -28419,6 +28670,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "056",
+      "057"
     ]
   },
   {
@@ -28868,6 +29123,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "058",
+      "059"
     ]
   },
   {
@@ -29296,6 +29555,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "058",
+      "059"
     ]
   },
   {
@@ -29779,6 +30042,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "060",
+      "061",
+      "062"
     ]
   },
   {
@@ -30460,6 +30728,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "060",
+      "061",
+      "062"
     ]
   },
   {
@@ -31110,6 +31383,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "060",
+      "061",
+      "062"
     ]
   },
   {
@@ -31593,6 +31871,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "063",
+      "064",
+      "065"
     ]
   },
   {
@@ -32238,6 +32521,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "063",
+      "064",
+      "065"
     ]
   },
   {
@@ -32898,6 +33186,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "063",
+      "064",
+      "065"
     ]
   },
   {
@@ -33456,6 +33749,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "066",
+      "067",
+      "068"
     ]
   },
   {
@@ -34050,6 +34348,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "066",
+      "067",
+      "068"
     ]
   },
   {
@@ -34659,6 +34962,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "066",
+      "067",
+      "068"
     ]
   },
   {
@@ -35108,6 +35416,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "069",
+      "070",
+      "071"
     ]
   },
   {
@@ -35575,6 +35888,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "069",
+      "070",
+      "071"
     ]
   },
   {
@@ -36021,6 +36339,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "069",
+      "070",
+      "071"
     ]
   },
   {
@@ -36559,6 +36882,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "072",
+      "073"
     ]
   },
   {
@@ -37148,6 +37475,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "072",
+      "073"
     ]
   },
   {
@@ -37728,6 +38059,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "074",
+      "075",
+      "076"
     ]
   },
   {
@@ -38326,6 +38662,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "074",
+      "075",
+      "076"
     ]
   },
   {
@@ -38957,6 +39298,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "074",
+      "075",
+      "076"
     ]
   },
   {
@@ -39388,6 +39734,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "077",
+      "078"
     ]
   },
   {
@@ -39888,6 +40238,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "077",
+      "078"
     ]
   },
   {
@@ -40593,6 +40947,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "079",
+      "080"
     ]
   },
   {
@@ -41457,6 +41815,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "079",
+      "080"
     ]
   },
   {
@@ -41907,6 +42269,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "081",
+      "082"
     ]
   },
   {
@@ -42408,6 +42774,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "081",
+      "082"
     ]
   },
   {
@@ -42890,6 +43260,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "083"
     ]
   },
   {
@@ -43339,6 +43712,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "084",
+      "085"
     ]
   },
   {
@@ -43839,6 +44216,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "084",
+      "085"
     ]
   },
   {
@@ -44322,6 +44703,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "086",
+      "087"
     ]
   },
   {
@@ -44859,6 +45244,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "086",
+      "087"
     ]
   },
   {
@@ -45287,6 +45676,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "088",
+      "089"
     ]
   },
   {
@@ -45748,6 +46141,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "088",
+      "089"
     ]
   },
   {
@@ -46267,6 +46664,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "090",
+      "091"
     ]
   },
   {
@@ -46768,6 +47169,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "090",
+      "091"
     ]
   },
   {
@@ -47163,6 +47568,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "092",
+      "093",
+      "094"
     ]
   },
   {
@@ -47558,6 +47968,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "092",
+      "093",
+      "094"
     ]
   },
   {
@@ -48166,6 +48581,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "092",
+      "093",
+      "094"
     ]
   },
   {
@@ -48653,6 +49073,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "095"
     ]
   },
   {
@@ -49280,6 +49703,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "096",
+      "097"
     ]
   },
   {
@@ -49958,6 +50385,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "096",
+      "097"
     ]
   },
   {
@@ -50441,6 +50872,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "098",
+      "099"
     ]
   },
   {
@@ -50957,6 +51392,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "098",
+      "099"
     ]
   },
   {
@@ -51420,6 +51859,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "100",
+      "101"
     ]
   },
   {
@@ -51934,6 +52377,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "100",
+      "101"
     ]
   },
   {
@@ -52406,6 +52853,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "102",
+      "103"
     ]
   },
   {
@@ -52857,6 +53308,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "102",
+      "103"
     ]
   },
   {
@@ -53469,6 +53924,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "104",
+      "105"
     ]
   },
   {
@@ -54132,6 +54591,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "104",
+      "105"
     ]
   },
   {
@@ -54633,6 +55096,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "106",
+      "107"
     ]
   },
   {
@@ -55134,6 +55601,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "106",
+      "107"
     ]
   },
   {
@@ -55827,6 +56298,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "108"
     ]
   },
   {
@@ -56200,6 +56674,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "109",
+      "110"
     ]
   },
   {
@@ -56606,6 +57084,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "109",
+      "110"
     ]
   },
   {
@@ -57132,6 +57614,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "111",
+      "112"
     ]
   },
   {
@@ -57925,6 +58411,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "111",
+      "112"
     ]
   },
   {
@@ -58749,6 +59239,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "113"
     ]
   },
   {
@@ -59214,6 +59707,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "114"
     ]
   },
   {
@@ -59889,6 +60385,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "115"
     ]
   },
   {
@@ -60318,6 +60817,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "116",
+      "117"
     ]
   },
   {
@@ -60780,6 +61283,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "116",
+      "117"
     ]
   },
   {
@@ -61263,6 +61770,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "118",
+      "119"
     ]
   },
   {
@@ -61779,6 +62290,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "118",
+      "119"
     ]
   },
   {
@@ -62406,6 +62921,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "120",
+      "121"
     ]
   },
   {
@@ -62964,6 +63483,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "120",
+      "121"
     ]
   },
   {
@@ -63607,6 +64130,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "122"
     ]
   },
   {
@@ -64020,6 +64546,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "123"
     ]
   },
   {
@@ -64668,6 +65197,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "124"
     ]
   },
   {
@@ -65326,6 +65858,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "125"
     ]
   },
   {
@@ -65898,6 +66433,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "126"
     ]
   },
   {
@@ -66343,6 +66881,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "127"
     ]
   },
   {
@@ -66856,6 +67397,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "128"
     ]
   },
   {
@@ -66925,6 +67469,10 @@
           "description": "Learned when a Pokémon reaches a certain level."
         }
       }
+    ],
+    "evolution_chain": [
+      "129",
+      "130"
     ]
   },
   {
@@ -67533,6 +68081,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "129",
+      "130"
     ]
   },
   {
@@ -68178,6 +68730,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "131"
     ]
   },
   {
@@ -68223,6 +68778,9 @@
           "description": "Learned when a Pokémon reaches a certain level."
         }
       }
+    ],
+    "evolution_chain": [
+      "132"
     ]
   },
   {
@@ -68603,6 +69161,12 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "133",
+      "134",
+      "135",
+      "136"
     ]
   },
   {
@@ -69191,6 +69755,12 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "133",
+      "134",
+      "135",
+      "136"
     ]
   },
   {
@@ -69759,6 +70329,12 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "133",
+      "134",
+      "135",
+      "136"
     ]
   },
   {
@@ -70277,6 +70853,12 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "133",
+      "134",
+      "135",
+      "136"
     ]
   },
   {
@@ -70844,6 +71426,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "137"
     ]
   },
   {
@@ -71278,6 +71863,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "138",
+      "139"
     ]
   },
   {
@@ -71817,6 +72406,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "138",
+      "139"
     ]
   },
   {
@@ -72251,6 +72844,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "140",
+      "141"
     ]
   },
   {
@@ -72826,6 +73423,10 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "140",
+      "141"
     ]
   },
   {
@@ -73294,6 +73895,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "142"
     ]
   },
   {
@@ -74095,6 +74699,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "143"
     ]
   },
   {
@@ -74581,6 +75188,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "144"
     ]
   },
   {
@@ -75063,6 +75673,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "145"
     ]
   },
   {
@@ -75492,6 +76105,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "146"
     ]
   },
   {
@@ -76064,6 +76680,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "147",
+      "148",
+      "149"
     ]
   },
   {
@@ -76672,6 +77293,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "147",
+      "148",
+      "149"
     ]
   },
   {
@@ -77354,6 +77980,11 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "147",
+      "148",
+      "149"
     ]
   },
   {
@@ -78194,6 +78825,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "150"
     ]
   },
   {
@@ -79304,6 +79938,9 @@
           "description": "Can be taught at any time by using a TM or HM."
         }
       }
+    ],
+    "evolution_chain": [
+      "151"
     ]
   }
 ]
