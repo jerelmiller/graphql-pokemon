@@ -3231,7 +3231,7 @@
       "ground"
     ],
     "name": "Voltorb",
-    "number": 100,
+    "number": "100",
     "description": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
     "maxHP": 75,
     "attack": 102,
@@ -3244,7 +3244,7 @@
     "rankingCP": 130,
     "evolution": [
       {
-        "number": 101,
+        "number": "101",
         "candies": 50
       }
     ],
@@ -3262,7 +3262,7 @@
       "ground"
     ],
     "name": "Electrode",
-    "number": 101,
+    "number": "101",
     "description": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
     "maxHP": 106,
     "attack": 150,
@@ -3297,7 +3297,7 @@
       "poison"
     ],
     "name": "Exeggcute",
-    "number": 102,
+    "number": "102",
     "description": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
     "maxHP": 106,
     "attack": 110,
@@ -3310,7 +3310,7 @@
     "rankingCP": 106,
     "evolution": [
       {
-        "number": 103,
+        "number": "103",
         "candies": 50
       }
     ],
@@ -3337,7 +3337,7 @@
       "poison"
     ],
     "name": "Exeggutor",
-    "number": 103,
+    "number": "103",
     "description": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
     "maxHP": 162,
     "attack": 232,
@@ -3368,7 +3368,7 @@
       "water"
     ],
     "name": "Cubone",
-    "number": 104,
+    "number": "104",
     "description": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
     "maxHP": 90,
     "attack": 102,
@@ -3381,7 +3381,7 @@
     "rankingCP": 113,
     "evolution": [
       {
-        "number": 105,
+        "number": "105",
         "candies": 50
       }
     ],
@@ -3404,7 +3404,7 @@
       "water"
     ],
     "name": "Marowak",
-    "number": 105,
+    "number": "105",
     "description": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
     "maxHP": 106,
     "attack": 140,
@@ -3435,7 +3435,7 @@
       "fairy"
     ],
     "name": "Hitmonlee",
-    "number": 106,
+    "number": "106",
     "description": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
     "maxHP": 90,
     "attack": 148,
@@ -3466,7 +3466,7 @@
       "fairy"
     ],
     "name": "Hitmonchan",
-    "number": 107,
+    "number": "107",
     "description": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
     "maxHP": 90,
     "attack": 138,
@@ -3489,7 +3489,7 @@
       "fighting"
     ],
     "name": "Lickitung",
-    "number": 108,
+    "number": "108",
     "description": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
     "maxHP": 154,
     "attack": 126,
@@ -3515,7 +3515,7 @@
       "psychic"
     ],
     "name": "Koffing",
-    "number": 109,
+    "number": "109",
     "description": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
     "maxHP": 75,
     "attack": 136,
@@ -3528,7 +3528,7 @@
     "rankingCP": 98,
     "evolution": [
       {
-        "number": 110,
+        "number": "110",
         "candies": 50
       }
     ],
@@ -3546,7 +3546,7 @@
       "psychic"
     ],
     "name": "Weezing",
-    "number": 110,
+    "number": "110",
     "description": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
     "maxHP": 114,
     "attack": 190,
@@ -3581,7 +3581,7 @@
       "steel"
     ],
     "name": "Rhyhorn",
-    "number": 111,
+    "number": "111",
     "description": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
     "maxHP": 138,
     "attack": 110,
@@ -3594,7 +3594,7 @@
     "rankingCP": 96,
     "evolution": [
       {
-        "number": 112,
+        "number": "112",
         "candies": 50
       }
     ],
@@ -3621,7 +3621,7 @@
       "steel"
     ],
     "name": "Rhydon",
-    "number": 112,
+    "number": "112",
     "description": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
     "maxHP": 177,
     "attack": 166,
@@ -3651,7 +3651,7 @@
       "fighting"
     ],
     "name": "Chansey",
-    "number": 113,
+    "number": "113",
     "description": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
     "maxHP": 407,
     "attack": 40,
@@ -3682,7 +3682,7 @@
       "poison"
     ],
     "name": "Tangela",
-    "number": 114,
+    "number": "114",
     "description": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
     "maxHP": 114,
     "attack": 164,
@@ -3705,7 +3705,7 @@
       "fighting"
     ],
     "name": "Kangaskhan",
-    "number": 115,
+    "number": "115",
     "description": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
     "maxHP": 177,
     "attack": 142,
@@ -3733,7 +3733,7 @@
       "grass"
     ],
     "name": "Horsea",
-    "number": 116,
+    "number": "116",
     "description": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
     "maxHP": 59,
     "attack": 122,
@@ -3746,7 +3746,7 @@
     "rankingCP": 137,
     "evolution": [
       {
-        "number": 117,
+        "number": "117",
         "candies": 50
       }
     ],
@@ -3766,7 +3766,7 @@
       "grass"
     ],
     "name": "Seadra",
-    "number": 117,
+    "number": "117",
     "description": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.",
     "maxHP": 98,
     "attack": 176,
@@ -3794,7 +3794,7 @@
       "grass"
     ],
     "name": "Goldeen",
-    "number": 118,
+    "number": "118",
     "description": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn.",
     "maxHP": 82,
     "attack": 112,
@@ -3807,7 +3807,7 @@
     "rankingCP": 115,
     "evolution": [
       {
-        "number": 119,
+        "number": "119",
         "candies": 50
       }
     ],
@@ -3827,7 +3827,7 @@
       "grass"
     ],
     "name": "Seaking",
-    "number": 119,
+    "number": "119",
     "description": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",
     "maxHP": 138,
     "attack": 172,
@@ -3855,7 +3855,7 @@
       "grass"
     ],
     "name": "Staryu",
-    "number": 120,
+    "number": "120",
     "description": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
     "maxHP": 59,
     "attack": 130,
@@ -3868,7 +3868,7 @@
     "rankingCP": 117,
     "evolution": [
       {
-        "number": 121,
+        "number": "121",
         "candies": 50
       }
     ],
@@ -3894,7 +3894,7 @@
       "grass"
     ],
     "name": "Starmie",
-    "number": 121,
+    "number": "121",
     "description": "Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname “the gem of the sea.",
     "maxHP": 106,
     "attack": 194,
@@ -3923,7 +3923,7 @@
       "poison"
     ],
     "name": "Mr-mime",
-    "number": 122,
+    "number": "122",
     "description": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
     "maxHP": 75,
     "attack": 154,
@@ -3956,7 +3956,7 @@
       "ice"
     ],
     "name": "Scyther",
-    "number": 123,
+    "number": "123",
     "description": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
     "maxHP": 122,
     "attack": 176,
@@ -3990,7 +3990,7 @@
       "steel"
     ],
     "name": "Jynx",
-    "number": 124,
+    "number": "124",
     "description": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
     "maxHP": 114,
     "attack": 172,
@@ -4016,7 +4016,7 @@
       "ground"
     ],
     "name": "Electabuzz",
-    "number": 125,
+    "number": "125",
     "description": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
     "maxHP": 114,
     "attack": 198,
@@ -4046,7 +4046,7 @@
       "water"
     ],
     "name": "Magmar",
-    "number": 126,
+    "number": "126",
     "description": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
     "maxHP": 114,
     "attack": 214,
@@ -4075,7 +4075,7 @@
       "rock"
     ],
     "name": "Pinsir",
-    "number": 127,
+    "number": "127",
     "description": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
     "maxHP": 114,
     "attack": 184,
@@ -4098,7 +4098,7 @@
       "fighting"
     ],
     "name": "Tauros",
-    "number": 128,
+    "number": "128",
     "description": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
     "maxHP": 130,
     "attack": 148,
@@ -4126,7 +4126,7 @@
       "grass"
     ],
     "name": "Magikarp",
-    "number": 129,
+    "number": "129",
     "description": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
     "maxHP": 43,
     "attack": 42,
@@ -4139,7 +4139,7 @@
     "rankingCP": 151,
     "evolution": [
       {
-        "number": 130,
+        "number": "130",
         "candies": 400
       }
     ],
@@ -4161,7 +4161,7 @@
       "rock"
     ],
     "name": "Gyarados",
-    "number": 130,
+    "number": "130",
     "description": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature.",
     "maxHP": 162,
     "attack": 192,
@@ -4192,7 +4192,7 @@
       "rock"
     ],
     "name": "Lapras",
-    "number": 131,
+    "number": "131",
     "description": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
     "maxHP": 217,
     "attack": 186,
@@ -4215,7 +4215,7 @@
       "fighting"
     ],
     "name": "Ditto",
-    "number": 132,
+    "number": "132",
     "description": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
     "maxHP": 87,
     "attack": 110,
@@ -4238,7 +4238,7 @@
       "fighting"
     ],
     "name": "Eevee",
-    "number": 133,
+    "number": "133",
     "description": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
     "maxHP": 98,
     "attack": 114,
@@ -4251,15 +4251,15 @@
     "rankingCP": 108,
     "evolution": [
       {
-        "number": 134,
+        "number": "134",
         "candies": 25
       },
       {
-        "number": 135,
+        "number": "135",
         "candies": 25
       },
       {
-        "number": 136,
+        "number": "136",
         "candies": 25
       }
     ],
@@ -4279,7 +4279,7 @@
       "grass"
     ],
     "name": "Vaporeon",
-    "number": 134,
+    "number": "134",
     "description": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
     "maxHP": 217,
     "attack": 186,
@@ -4305,7 +4305,7 @@
       "ground"
     ],
     "name": "Jolteon",
-    "number": 135,
+    "number": "135",
     "description": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
     "maxHP": 114,
     "attack": 192,
@@ -4335,7 +4335,7 @@
       "water"
     ],
     "name": "Flareon",
-    "number": 136,
+    "number": "136",
     "description": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
     "maxHP": 114,
     "attack": 238,
@@ -4358,7 +4358,7 @@
       "fighting"
     ],
     "name": "Porygon",
-    "number": 137,
+    "number": "137",
     "description": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying.",
     "maxHP": 114,
     "attack": 156,
@@ -4391,7 +4391,7 @@
       "ground"
     ],
     "name": "Omanyte",
-    "number": 138,
+    "number": "138",
     "description": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
     "maxHP": 67,
     "attack": 132,
@@ -4404,7 +4404,7 @@
     "rankingCP": 101,
     "evolution": [
       {
-        "number": 139,
+        "number": "139",
         "candies": 50
       }
     ],
@@ -4429,7 +4429,7 @@
       "ground"
     ],
     "name": "Omastar",
-    "number": 139,
+    "number": "139",
     "description": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
     "maxHP": 122,
     "attack": 180,
@@ -4462,7 +4462,7 @@
       "ground"
     ],
     "name": "Kabuto",
-    "number": 140,
+    "number": "140",
     "description": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
     "maxHP": 59,
     "attack": 148,
@@ -4475,7 +4475,7 @@
     "rankingCP": 105,
     "evolution": [
       {
-        "number": 141,
+        "number": "141",
         "candies": 50
       }
     ],
@@ -4500,7 +4500,7 @@
       "ground"
     ],
     "name": "Kabutops",
-    "number": 141,
+    "number": "141",
     "description": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.",
     "maxHP": 106,
     "attack": 190,
@@ -4534,7 +4534,7 @@
       "water"
     ],
     "name": "Aerodactyl",
-    "number": 142,
+    "number": "142",
     "description": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
     "maxHP": 138,
     "attack": 182,
@@ -4557,7 +4557,7 @@
       "fighting"
     ],
     "name": "Snorlax",
-    "number": 143,
+    "number": "143",
     "description": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
     "maxHP": 264,
     "attack": 180,
@@ -4591,7 +4591,7 @@
       "steel"
     ],
     "name": "Articuno",
-    "number": 144,
+    "number": "144",
     "description": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
     "maxHP": 154,
     "attack": 198,
@@ -4621,7 +4621,7 @@
       "rock"
     ],
     "name": "Zapdos",
-    "number": 145,
+    "number": "145",
     "description": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
     "maxHP": 154,
     "attack": 232,
@@ -4652,7 +4652,7 @@
       "water"
     ],
     "name": "Moltres",
-    "number": 146,
+    "number": "146",
     "description": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
     "maxHP": 154,
     "attack": 242,
@@ -4679,7 +4679,7 @@
       "fairy"
     ],
     "name": "Dratini",
-    "number": 147,
+    "number": "147",
     "description": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
     "maxHP": 76,
     "attack": 128,
@@ -4692,7 +4692,7 @@
     "rankingCP": 114,
     "evolution": [
       {
-        "number": 148,
+        "number": "148",
         "candies": 25
       }
     ],
@@ -4711,7 +4711,7 @@
       "fairy"
     ],
     "name": "Dragonair",
-    "number": 148,
+    "number": "148",
     "description": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
     "maxHP": 108,
     "attack": 170,
@@ -4724,7 +4724,7 @@
     "rankingCP": 63,
     "evolution": [
       {
-        "number": 149,
+        "number": "149",
         "candies": 100
       }
     ],
@@ -4748,7 +4748,7 @@
       "fairy"
     ],
     "name": "Dragonite",
-    "number": 149,
+    "number": "149",
     "description": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
     "maxHP": 155,
     "attack": 250,
@@ -4776,7 +4776,7 @@
       "ghost"
     ],
     "name": "Mewtwo",
-    "number": 150,
+    "number": "150",
     "description": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
     "maxHP": 179,
     "attack": 284,
@@ -4804,7 +4804,7 @@
       "ghost"
     ],
     "name": "Mew",
-    "number": 151,
+    "number": "151",
     "description": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
     "maxHP": 169,
     "attack": 220,
