@@ -36,17 +36,15 @@ task :merge_json do
   end
 
   pokemons.each_with_index do |pokemon_entry, idx|
-    evolution_chain_id =
-      species.find do |specimen|
-        specimen['id'] == pokemon_entry['number'].to_i.to_s
-      end['evolution_chain_id']
+    specimen = species.find do |specimen|
+      specimen['id'] == pokemon_entry['number'].to_i.to_s
+    end
 
-    evolution_chain =
-      species
-        .select { |specimen| specimen['evolution_chain_id'] == evolution_chain_id }
-        .map{ |specimen| specimen['id'].rjust(3, '0') }
+    involution_id = specimen['evolves_from_species_id']
+    pokemon_entry['involution'] = involution_id.present? ?
+      involution_id.rjust(3, '0') :
+      nil
 
-    pokemon_entry['evolution_chain'] = evolution_chain
     pokemon_entry['moves'] = []
 
     if pokemon_moves[pokemon_entry['number'].to_i.to_s].blank?

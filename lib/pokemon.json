@@ -26,7 +26,7 @@
         "candies": 25
       }
     ],
-    "involution": 1,
+    "involution": null,
     "hp": 45,
     "special_attack": 65,
     "special_defense": 65,
@@ -498,7 +498,7 @@
         "candies": 100
       }
     ],
-    "involution": 1,
+    "involution": "001",
     "hp": 60,
     "special_attack": 80,
     "special_defense": 80,
@@ -985,7 +985,7 @@
     "evolution": [
 
     ],
-    "involution": 1,
+    "involution": "002",
     "hp": 80,
     "special_attack": 100,
     "special_defense": 100,
@@ -1511,7 +1511,7 @@
         "candies": 25
       }
     ],
-    "involution": 4,
+    "involution": null,
     "hp": 39,
     "special_attack": 60,
     "special_defense": 50,
@@ -2127,7 +2127,7 @@
         "candies": 100
       }
     ],
-    "involution": 4,
+    "involution": "004",
     "hp": 58,
     "special_attack": 80,
     "special_defense": 65,
@@ -2759,7 +2759,7 @@
     "evolution": [
 
     ],
-    "involution": 4,
+    "involution": "005",
     "hp": 78,
     "special_attack": 109,
     "special_defense": 85,
@@ -3463,7 +3463,7 @@
         "candies": 25
       }
     ],
-    "involution": 7,
+    "involution": null,
     "hp": 44,
     "special_attack": 50,
     "special_defense": 64,
@@ -4077,7 +4077,7 @@
         "candies": 100
       }
     ],
-    "involution": 7,
+    "involution": "007",
     "hp": 59,
     "special_attack": 65,
     "special_defense": 80,
@@ -4706,7 +4706,7 @@
     "evolution": [
 
     ],
-    "involution": 7,
+    "involution": "008",
     "hp": 79,
     "special_attack": 85,
     "special_defense": 105,
@@ -5411,7 +5411,7 @@
         "candies": 12
       }
     ],
-    "involution": 10,
+    "involution": null,
     "hp": 45,
     "special_attack": 20,
     "special_defense": 20,
@@ -5486,7 +5486,7 @@
         "candies": 50
       }
     ],
-    "involution": 10,
+    "involution": "010",
     "hp": 50,
     "special_attack": 25,
     "special_defense": 25,
@@ -5544,7 +5544,7 @@
     "evolution": [
 
     ],
-    "involution": 10,
+    "involution": "011",
     "hp": 60,
     "special_attack": 90,
     "special_defense": 80,
@@ -6071,7 +6071,7 @@
         "candies": 12
       }
     ],
-    "involution": 13,
+    "involution": null,
     "hp": 40,
     "special_attack": 20,
     "special_defense": 20,
@@ -6148,7 +6148,7 @@
         "candies": 50
       }
     ],
-    "involution": 13,
+    "involution": "013",
     "hp": 45,
     "special_attack": 25,
     "special_defense": 25,
@@ -6204,7 +6204,7 @@
     "evolution": [
 
     ],
-    "involution": 13,
+    "involution": "014",
     "hp": 65,
     "special_attack": 45,
     "special_defense": 80,
@@ -6658,7 +6658,7 @@
         "candies": 12
       }
     ],
-    "involution": 16,
+    "involution": null,
     "hp": 40,
     "special_attack": 35,
     "special_defense": 35,
@@ -7094,7 +7094,7 @@
         "candies": 50
       }
     ],
-    "involution": 16,
+    "involution": "016",
     "hp": 63,
     "special_attack": 50,
     "special_defense": 50,
@@ -7545,7 +7545,7 @@
     "evolution": [
 
     ],
-    "involution": 16,
+    "involution": "017",
     "hp": 83,
     "special_attack": 70,
     "special_defense": 70,
@@ -8030,7 +8030,7 @@
         "candies": 25
       }
     ],
-    "involution": 19,
+    "involution": null,
     "hp": 30,
     "special_attack": 25,
     "special_defense": 35,
@@ -8493,7 +8493,7 @@
     "evolution": [
 
     ],
-    "involution": 19,
+    "involution": "019",
     "hp": 55,
     "special_attack": 50,
     "special_defense": 70,
@@ -9018,7 +9018,7 @@
         "candies": 50
       }
     ],
-    "involution": 21,
+    "involution": null,
     "hp": 40,
     "special_attack": 31,
     "special_defense": 31,
@@ -9432,7 +9432,7 @@
     "evolution": [
 
     ],
-    "involution": 21,
+    "involution": "021",
     "hp": 65,
     "special_attack": 61,
     "special_defense": 61,
@@ -9882,7 +9882,7 @@
         "candies": 50
       }
     ],
-    "involution": 23,
+    "involution": null,
     "hp": 35,
     "special_attack": 40,
     "special_defense": 54,
@@ -10347,7 +10347,7 @@
     "evolution": [
 
     ],
-    "involution": 23,
+    "involution": "023",
     "hp": 60,
     "special_attack": 65,
     "special_defense": 79,
@@ -10850,7 +10850,7 @@
         "candies": 50
       }
     ],
-    "involution": 25,
+    "involution": "172",
     "hp": 35,
     "special_attack": 50,
     "special_defense": 50,
@@ -11422,7 +11422,7 @@
     "evolution": [
 
     ],
-    "involution": 25,
+    "involution": "025",
     "hp": 60,
     "special_attack": 90,
     "special_defense": 80,
@@ -11930,7 +11930,7 @@
         "candies": 50
       }
     ],
-    "involution": 27,
+    "involution": null,
     "hp": 50,
     "special_attack": 20,
     "special_defense": 30,
@@ -12453,7 +12453,7 @@
     "evolution": [
 
     ],
-    "involution": 27,
+    "involution": "027",
     "hp": 75,
     "special_attack": 45,
     "special_defense": 55,
@@ -13011,7 +13011,7 @@
         "candies": 25
       }
     ],
-    "involution": 29,
+    "involution": null,
     "hp": 55,
     "special_attack": 40,
     "special_defense": 40,
@@ -13462,7 +13462,7 @@
         "candies": 100
       }
     ],
-    "involution": 29,
+    "involution": "029",
     "hp": 70,
     "special_attack": 55,
     "special_defense": 55,
@@ -14004,7 +14004,7 @@
     "evolution": [
 
     ],
-    "involution": 29,
+    "involution": "030",
     "hp": 90,
     "special_attack": 75,
     "special_defense": 85,
@@ -14743,7 +14743,7 @@
         "candies": 25
       }
     ],
-    "involution": 32,
+    "involution": null,
     "hp": 46,
     "special_attack": 40,
     "special_defense": 40,
@@ -15212,7 +15212,7 @@
         "candies": 100
       }
     ],
-    "involution": 32,
+    "involution": "032",
     "hp": 61,
     "special_attack": 55,
     "special_defense": 55,
@@ -15754,7 +15754,7 @@
     "evolution": [
 
     ],
-    "involution": 32,
+    "involution": "033",
     "hp": 81,
     "special_attack": 85,
     "special_defense": 75,
@@ -16494,7 +16494,7 @@
         "candies": 50
       }
     ],
-    "involution": 35,
+    "involution": "173",
     "hp": 70,
     "special_attack": 60,
     "special_defense": 65,
@@ -17266,7 +17266,7 @@
     "evolution": [
 
     ],
-    "involution": 35,
+    "involution": "035",
     "hp": 95,
     "special_attack": 95,
     "special_defense": 90,
@@ -17989,7 +17989,7 @@
         "candies": 50
       }
     ],
-    "involution": 37,
+    "involution": null,
     "hp": 38,
     "special_attack": 50,
     "special_defense": 65,
@@ -18421,7 +18421,7 @@
     "evolution": [
 
     ],
-    "involution": 37,
+    "involution": "037",
     "hp": 73,
     "special_attack": 81,
     "special_defense": 100,
@@ -18819,7 +18819,7 @@
         "candies": 50
       }
     ],
-    "involution": 39,
+    "involution": "174",
     "hp": 115,
     "special_attack": 45,
     "special_defense": 25,
@@ -19574,7 +19574,7 @@
     "evolution": [
 
     ],
-    "involution": 39,
+    "involution": "039",
     "hp": 140,
     "special_attack": 85,
     "special_defense": 50,
@@ -20281,7 +20281,7 @@
         "candies": 50
       }
     ],
-    "involution": 41,
+    "involution": null,
     "hp": 40,
     "special_attack": 30,
     "special_defense": 40,
@@ -20661,7 +20661,7 @@
     "evolution": [
 
     ],
-    "involution": 41,
+    "involution": "041",
     "hp": 75,
     "special_attack": 65,
     "special_defense": 75,
@@ -21096,7 +21096,7 @@
         "candies": 25
       }
     ],
-    "involution": 43,
+    "involution": null,
     "hp": 45,
     "special_attack": 75,
     "special_defense": 65,
@@ -21514,7 +21514,7 @@
         "candies": 100
       }
     ],
-    "involution": 43,
+    "involution": "043",
     "hp": 60,
     "special_attack": 85,
     "special_defense": 75,
@@ -21965,7 +21965,7 @@
     "evolution": [
 
     ],
-    "involution": 43,
+    "involution": "044",
     "hp": 75,
     "special_attack": 110,
     "special_defense": 90,
@@ -22424,7 +22424,7 @@
         "candies": 50
       }
     ],
-    "involution": 46,
+    "involution": null,
     "hp": 35,
     "special_attack": 45,
     "special_defense": 55,
@@ -22879,7 +22879,7 @@
     "evolution": [
 
     ],
-    "involution": 46,
+    "involution": "046",
     "hp": 60,
     "special_attack": 60,
     "special_defense": 80,
@@ -23387,7 +23387,7 @@
         "candies": 50
       }
     ],
-    "involution": 48,
+    "involution": null,
     "hp": 60,
     "special_attack": 40,
     "special_defense": 55,
@@ -23820,7 +23820,7 @@
     "evolution": [
 
     ],
-    "involution": 48,
+    "involution": "048",
     "hp": 70,
     "special_attack": 90,
     "special_defense": 75,
@@ -24382,7 +24382,7 @@
         "candies": 50
       }
     ],
-    "involution": 50,
+    "involution": null,
     "hp": 10,
     "special_attack": 35,
     "special_defense": 45,
@@ -24779,7 +24779,7 @@
     "evolution": [
 
     ],
-    "involution": 50,
+    "involution": "050",
     "hp": 35,
     "special_attack": 50,
     "special_defense": 70,
@@ -25227,7 +25227,7 @@
         "candies": 50
       }
     ],
-    "involution": 52,
+    "involution": null,
     "hp": 40,
     "special_attack": 40,
     "special_defense": 40,
@@ -25690,7 +25690,7 @@
     "evolution": [
 
     ],
-    "involution": 52,
+    "involution": "052",
     "hp": 65,
     "special_attack": 65,
     "special_defense": 65,
@@ -26213,7 +26213,7 @@
         "candies": 50
       }
     ],
-    "involution": 54,
+    "involution": null,
     "hp": 50,
     "special_attack": 65,
     "special_defense": 50,
@@ -26805,7 +26805,7 @@
     "evolution": [
 
     ],
-    "involution": 54,
+    "involution": "054",
     "hp": 80,
     "special_attack": 95,
     "special_defense": 80,
@@ -27457,7 +27457,7 @@
         "candies": 50
       }
     ],
-    "involution": 56,
+    "involution": null,
     "hp": 40,
     "special_attack": 35,
     "special_defense": 45,
@@ -28052,7 +28052,7 @@
     "evolution": [
 
     ],
-    "involution": 56,
+    "involution": "056",
     "hp": 65,
     "special_attack": 60,
     "special_defense": 70,
@@ -28703,7 +28703,7 @@
         "candies": 50
       }
     ],
-    "involution": 58,
+    "involution": null,
     "hp": 55,
     "special_attack": 70,
     "special_defense": 50,
@@ -29153,7 +29153,7 @@
     "evolution": [
 
     ],
-    "involution": 58,
+    "involution": "058",
     "hp": 90,
     "special_attack": 100,
     "special_defense": 80,
@@ -29586,7 +29586,7 @@
         "candies": 25
       }
     ],
-    "involution": 60,
+    "involution": null,
     "hp": 40,
     "special_attack": 40,
     "special_defense": 40,
@@ -30074,7 +30074,7 @@
         "candies": 100
       }
     ],
-    "involution": 60,
+    "involution": "060",
     "hp": 65,
     "special_attack": 50,
     "special_defense": 50,
@@ -30765,7 +30765,7 @@
     "evolution": [
 
     ],
-    "involution": 60,
+    "involution": "061",
     "hp": 90,
     "special_attack": 70,
     "special_defense": 90,
@@ -31415,7 +31415,7 @@
         "candies": 25
       }
     ],
-    "involution": 63,
+    "involution": null,
     "hp": 25,
     "special_attack": 105,
     "special_defense": 55,
@@ -31903,7 +31903,7 @@
         "candies": 100
       }
     ],
-    "involution": 63,
+    "involution": "063",
     "hp": 40,
     "special_attack": 120,
     "special_defense": 70,
@@ -32550,7 +32550,7 @@
     "evolution": [
 
     ],
-    "involution": 63,
+    "involution": "064",
     "hp": 55,
     "special_attack": 135,
     "special_defense": 95,
@@ -33221,7 +33221,7 @@
         "candies": 25
       }
     ],
-    "involution": 66,
+    "involution": null,
     "hp": 70,
     "special_attack": 35,
     "special_defense": 35,
@@ -33784,7 +33784,7 @@
         "candies": 100
       }
     ],
-    "involution": 66,
+    "involution": "066",
     "hp": 80,
     "special_attack": 50,
     "special_defense": 60,
@@ -34380,7 +34380,7 @@
     "evolution": [
 
     ],
-    "involution": 66,
+    "involution": "067",
     "hp": 90,
     "special_attack": 65,
     "special_defense": 85,
@@ -34996,7 +34996,7 @@
         "candies": 25
       }
     ],
-    "involution": 69,
+    "involution": null,
     "hp": 50,
     "special_attack": 70,
     "special_defense": 30,
@@ -35450,7 +35450,7 @@
         "candies": 100
       }
     ],
-    "involution": 69,
+    "involution": "069",
     "hp": 65,
     "special_attack": 85,
     "special_defense": 45,
@@ -35919,7 +35919,7 @@
     "evolution": [
 
     ],
-    "involution": 69,
+    "involution": "070",
     "hp": 80,
     "special_attack": 100,
     "special_defense": 70,
@@ -36372,7 +36372,7 @@
         "candies": 50
       }
     ],
-    "involution": 72,
+    "involution": null,
     "hp": 40,
     "special_attack": 50,
     "special_defense": 100,
@@ -36911,7 +36911,7 @@
     "evolution": [
 
     ],
-    "involution": 72,
+    "involution": "072",
     "hp": 80,
     "special_attack": 80,
     "special_defense": 120,
@@ -37513,7 +37513,7 @@
         "candies": 25
       }
     ],
-    "involution": 74,
+    "involution": null,
     "hp": 40,
     "special_attack": 30,
     "special_defense": 30,
@@ -38098,7 +38098,7 @@
         "candies": 100
       }
     ],
-    "involution": 74,
+    "involution": "074",
     "hp": 55,
     "special_attack": 45,
     "special_defense": 45,
@@ -38698,7 +38698,7 @@
     "evolution": [
 
     ],
-    "involution": 74,
+    "involution": "075",
     "hp": 80,
     "special_attack": 55,
     "special_defense": 65,
@@ -39332,7 +39332,7 @@
         "candies": 50
       }
     ],
-    "involution": 77,
+    "involution": null,
     "hp": 50,
     "special_attack": 65,
     "special_defense": 65,
@@ -39764,7 +39764,7 @@
     "evolution": [
 
     ],
-    "involution": 77,
+    "involution": "077",
     "hp": 65,
     "special_attack": 80,
     "special_defense": 80,
@@ -40275,7 +40275,7 @@
         "candies": 50
       }
     ],
-    "involution": 79,
+    "involution": null,
     "hp": 90,
     "special_attack": 40,
     "special_defense": 40,
@@ -40981,7 +40981,7 @@
     "evolution": [
 
     ],
-    "involution": 79,
+    "involution": "079",
     "hp": 95,
     "special_attack": 100,
     "special_defense": 80,
@@ -41849,7 +41849,7 @@
         "candies": 50
       }
     ],
-    "involution": 81,
+    "involution": null,
     "hp": 25,
     "special_attack": 95,
     "special_defense": 55,
@@ -42300,7 +42300,7 @@
     "evolution": [
 
     ],
-    "involution": 81,
+    "involution": "081",
     "hp": 50,
     "special_attack": 120,
     "special_defense": 70,
@@ -42804,7 +42804,7 @@
     "evolution": [
 
     ],
-    "involution": 83,
+    "involution": null,
     "hp": 52,
     "special_attack": 58,
     "special_defense": 62,
@@ -43292,7 +43292,7 @@
         "candies": 50
       }
     ],
-    "involution": 84,
+    "involution": null,
     "hp": 35,
     "special_attack": 35,
     "special_defense": 35,
@@ -43742,7 +43742,7 @@
     "evolution": [
 
     ],
-    "involution": 84,
+    "involution": "084",
     "hp": 60,
     "special_attack": 60,
     "special_defense": 60,
@@ -44247,7 +44247,7 @@
         "candies": 50
       }
     ],
-    "involution": 86,
+    "involution": null,
     "hp": 65,
     "special_attack": 45,
     "special_defense": 70,
@@ -44734,7 +44734,7 @@
     "evolution": [
 
     ],
-    "involution": 86,
+    "involution": "086",
     "hp": 90,
     "special_attack": 70,
     "special_defense": 95,
@@ -45274,7 +45274,7 @@
         "candies": 50
       }
     ],
-    "involution": 88,
+    "involution": null,
     "hp": 80,
     "special_attack": 40,
     "special_defense": 50,
@@ -45703,7 +45703,7 @@
     "evolution": [
 
     ],
-    "involution": 88,
+    "involution": "088",
     "hp": 105,
     "special_attack": 65,
     "special_defense": 100,
@@ -46172,7 +46172,7 @@
         "candies": 50
       }
     ],
-    "involution": 90,
+    "involution": null,
     "hp": 30,
     "special_attack": 45,
     "special_defense": 25,
@@ -46695,7 +46695,7 @@
     "evolution": [
 
     ],
-    "involution": 90,
+    "involution": "090",
     "hp": 50,
     "special_attack": 85,
     "special_defense": 45,
@@ -47202,7 +47202,7 @@
         "candies": 25
       }
     ],
-    "involution": 92,
+    "involution": null,
     "hp": 30,
     "special_attack": 100,
     "special_defense": 35,
@@ -47602,7 +47602,7 @@
         "candies": 100
       }
     ],
-    "involution": 92,
+    "involution": "092",
     "hp": 45,
     "special_attack": 115,
     "special_defense": 55,
@@ -47999,7 +47999,7 @@
     "evolution": [
 
     ],
-    "involution": 92,
+    "involution": "093",
     "hp": 60,
     "special_attack": 130,
     "special_defense": 75,
@@ -48617,7 +48617,7 @@
     "evolution": [
 
     ],
-    "involution": 95,
+    "involution": null,
     "hp": 35,
     "special_attack": 30,
     "special_defense": 45,
@@ -49103,7 +49103,7 @@
         "candies": 50
       }
     ],
-    "involution": 96,
+    "involution": null,
     "hp": 60,
     "special_attack": 43,
     "special_defense": 90,
@@ -49731,7 +49731,7 @@
     "evolution": [
 
     ],
-    "involution": 96,
+    "involution": "096",
     "hp": 85,
     "special_attack": 73,
     "special_defense": 115,
@@ -50416,7 +50416,7 @@
         "candies": 50
       }
     ],
-    "involution": 98,
+    "involution": null,
     "hp": 30,
     "special_attack": 25,
     "special_defense": 25,
@@ -50900,7 +50900,7 @@
     "evolution": [
 
     ],
-    "involution": 98,
+    "involution": "098",
     "hp": 55,
     "special_attack": 50,
     "special_defense": 50,
@@ -51421,7 +51421,7 @@
         "candies": 50
       }
     ],
-    "involution": 100,
+    "involution": null,
     "hp": 40,
     "special_attack": 55,
     "special_defense": 55,
@@ -51885,7 +51885,7 @@
     "evolution": [
 
     ],
-    "involution": 100,
+    "involution": "100",
     "hp": 60,
     "special_attack": 80,
     "special_defense": 80,
@@ -52415,7 +52415,7 @@
         "candies": 50
       }
     ],
-    "involution": 102,
+    "involution": null,
     "hp": 60,
     "special_attack": 60,
     "special_defense": 45,
@@ -52888,7 +52888,7 @@
     "evolution": [
 
     ],
-    "involution": 102,
+    "involution": "102",
     "hp": 95,
     "special_attack": 125,
     "special_defense": 65,
@@ -53342,7 +53342,7 @@
         "candies": 50
       }
     ],
-    "involution": 104,
+    "involution": null,
     "hp": 50,
     "special_attack": 40,
     "special_defense": 50,
@@ -53955,7 +53955,7 @@
     "evolution": [
 
     ],
-    "involution": 104,
+    "involution": "104",
     "hp": 60,
     "special_attack": 50,
     "special_defense": 80,
@@ -54622,7 +54622,7 @@
     "evolution": [
 
     ],
-    "involution": 106,
+    "involution": "236",
     "hp": 50,
     "special_attack": 35,
     "special_defense": 110,
@@ -55127,7 +55127,7 @@
     "evolution": [
 
     ],
-    "involution": 107,
+    "involution": "236",
     "hp": 50,
     "special_attack": 35,
     "special_defense": 110,
@@ -55626,7 +55626,7 @@
     "evolution": [
 
     ],
-    "involution": 108,
+    "involution": null,
     "hp": 90,
     "special_attack": 60,
     "special_defense": 75,
@@ -56326,7 +56326,7 @@
         "candies": 50
       }
     ],
-    "involution": 109,
+    "involution": null,
     "hp": 40,
     "special_attack": 60,
     "special_defense": 45,
@@ -56700,7 +56700,7 @@
     "evolution": [
 
     ],
-    "involution": 109,
+    "involution": "109",
     "hp": 65,
     "special_attack": 85,
     "special_defense": 70,
@@ -57122,7 +57122,7 @@
         "candies": 50
       }
     ],
-    "involution": 111,
+    "involution": null,
     "hp": 80,
     "special_attack": 30,
     "special_defense": 30,
@@ -57649,7 +57649,7 @@
     "evolution": [
 
     ],
-    "involution": 111,
+    "involution": "111",
     "hp": 105,
     "special_attack": 45,
     "special_defense": 45,
@@ -58441,7 +58441,7 @@
     "evolution": [
 
     ],
-    "involution": 113,
+    "involution": "440",
     "hp": 250,
     "special_attack": 35,
     "special_defense": 105,
@@ -59269,7 +59269,7 @@
     "evolution": [
 
     ],
-    "involution": 114,
+    "involution": null,
     "hp": 65,
     "special_attack": 100,
     "special_defense": 40,
@@ -59731,7 +59731,7 @@
     "evolution": [
 
     ],
-    "involution": 115,
+    "involution": null,
     "hp": 105,
     "special_attack": 40,
     "special_defense": 80,
@@ -60415,7 +60415,7 @@
         "candies": 50
       }
     ],
-    "involution": 116,
+    "involution": null,
     "hp": 30,
     "special_attack": 70,
     "special_defense": 25,
@@ -60845,7 +60845,7 @@
     "evolution": [
 
     ],
-    "involution": 116,
+    "involution": "116",
     "hp": 55,
     "special_attack": 95,
     "special_defense": 45,
@@ -61314,7 +61314,7 @@
         "candies": 50
       }
     ],
-    "involution": 118,
+    "involution": null,
     "hp": 45,
     "special_attack": 35,
     "special_defense": 50,
@@ -61798,7 +61798,7 @@
     "evolution": [
 
     ],
-    "involution": 118,
+    "involution": "118",
     "hp": 80,
     "special_attack": 65,
     "special_defense": 80,
@@ -62321,7 +62321,7 @@
         "candies": 50
       }
     ],
-    "involution": 120,
+    "involution": null,
     "hp": 30,
     "special_attack": 70,
     "special_defense": 55,
@@ -62955,7 +62955,7 @@
     "evolution": [
 
     ],
-    "involution": 120,
+    "involution": "120",
     "hp": 60,
     "special_attack": 100,
     "special_defense": 85,
@@ -63512,7 +63512,7 @@
     "evolution": [
 
     ],
-    "involution": 122,
+    "involution": "439",
     "hp": 40,
     "special_attack": 100,
     "special_defense": 120,
@@ -64162,7 +64162,7 @@
     "evolution": [
 
     ],
-    "involution": 123,
+    "involution": null,
     "hp": 70,
     "special_attack": 55,
     "special_defense": 80,
@@ -64579,7 +64579,7 @@
     "evolution": [
 
     ],
-    "involution": 124,
+    "involution": "238",
     "hp": 65,
     "special_attack": 115,
     "special_defense": 95,
@@ -65222,7 +65222,7 @@
     "evolution": [
 
     ],
-    "involution": 125,
+    "involution": "239",
     "hp": 65,
     "special_attack": 95,
     "special_defense": 85,
@@ -65887,7 +65887,7 @@
     "evolution": [
 
     ],
-    "involution": 126,
+    "involution": "240",
     "hp": 65,
     "special_attack": 100,
     "special_defense": 85,
@@ -66461,7 +66461,7 @@
     "evolution": [
 
     ],
-    "involution": 127,
+    "involution": null,
     "hp": 65,
     "special_attack": 55,
     "special_defense": 70,
@@ -66905,7 +66905,7 @@
     "evolution": [
 
     ],
-    "involution": 128,
+    "involution": null,
     "hp": 75,
     "special_attack": 40,
     "special_defense": 70,
@@ -67427,7 +67427,7 @@
         "candies": 400
       }
     ],
-    "involution": 129,
+    "involution": null,
     "hp": 20,
     "special_attack": 15,
     "special_defense": 20,
@@ -67499,7 +67499,7 @@
     "evolution": [
 
     ],
-    "involution": 129,
+    "involution": "129",
     "hp": 95,
     "special_attack": 60,
     "special_defense": 100,
@@ -68112,7 +68112,7 @@
     "evolution": [
 
     ],
-    "involution": 131,
+    "involution": null,
     "hp": 130,
     "special_attack": 85,
     "special_defense": 95,
@@ -68754,7 +68754,7 @@
     "evolution": [
 
     ],
-    "involution": 132,
+    "involution": null,
     "hp": 48,
     "special_attack": 48,
     "special_defense": 48,
@@ -68813,7 +68813,7 @@
         "candies": 25
       }
     ],
-    "involution": 133,
+    "involution": null,
     "hp": 55,
     "special_attack": 45,
     "special_defense": 65,
@@ -69191,7 +69191,7 @@
     "evolution": [
 
     ],
-    "involution": 133,
+    "involution": "133",
     "hp": 130,
     "special_attack": 110,
     "special_defense": 95,
@@ -69783,7 +69783,7 @@
     "evolution": [
 
     ],
-    "involution": 133,
+    "involution": "133",
     "hp": 65,
     "special_attack": 110,
     "special_defense": 95,
@@ -70361,7 +70361,7 @@
     "evolution": [
 
     ],
-    "involution": 133,
+    "involution": "133",
     "hp": 65,
     "special_attack": 95,
     "special_defense": 110,
@@ -70880,7 +70880,7 @@
     "evolution": [
 
     ],
-    "involution": 137,
+    "involution": null,
     "hp": 65,
     "special_attack": 85,
     "special_defense": 75,
@@ -71461,7 +71461,7 @@
         "candies": 50
       }
     ],
-    "involution": 138,
+    "involution": null,
     "hp": 35,
     "special_attack": 90,
     "special_defense": 55,
@@ -71896,7 +71896,7 @@
     "evolution": [
 
     ],
-    "involution": 138,
+    "involution": "138",
     "hp": 70,
     "special_attack": 115,
     "special_defense": 70,
@@ -72442,7 +72442,7 @@
         "candies": 50
       }
     ],
-    "involution": 140,
+    "involution": null,
     "hp": 30,
     "special_attack": 55,
     "special_defense": 45,
@@ -72877,7 +72877,7 @@
     "evolution": [
 
     ],
-    "involution": 140,
+    "involution": "140",
     "hp": 60,
     "special_attack": 65,
     "special_defense": 70,
@@ -73457,7 +73457,7 @@
     "evolution": [
 
     ],
-    "involution": 142,
+    "involution": null,
     "hp": 80,
     "special_attack": 60,
     "special_defense": 75,
@@ -73919,7 +73919,7 @@
     "evolution": [
 
     ],
-    "involution": 143,
+    "involution": "446",
     "hp": 160,
     "special_attack": 65,
     "special_defense": 110,
@@ -74732,7 +74732,7 @@
     "evolution": [
 
     ],
-    "involution": 144,
+    "involution": null,
     "hp": 90,
     "special_attack": 95,
     "special_defense": 125,
@@ -75217,7 +75217,7 @@
     "evolution": [
 
     ],
-    "involution": 145,
+    "involution": null,
     "hp": 90,
     "special_attack": 125,
     "special_defense": 90,
@@ -75703,7 +75703,7 @@
     "evolution": [
 
     ],
-    "involution": 146,
+    "involution": null,
     "hp": 90,
     "special_attack": 125,
     "special_defense": 85,
@@ -76134,7 +76134,7 @@
         "candies": 25
       }
     ],
-    "involution": 147,
+    "involution": null,
     "hp": 41,
     "special_attack": 50,
     "special_defense": 50,
@@ -76711,7 +76711,7 @@
         "candies": 100
       }
     ],
-    "involution": 147,
+    "involution": "147",
     "hp": 61,
     "special_attack": 70,
     "special_defense": 70,
@@ -77326,7 +77326,7 @@
     "evolution": [
 
     ],
-    "involution": 147,
+    "involution": "148",
     "hp": 91,
     "special_attack": 100,
     "special_defense": 100,
@@ -78009,7 +78009,7 @@
     "evolution": [
 
     ],
-    "involution": 150,
+    "involution": null,
     "hp": 106,
     "special_attack": 154,
     "special_defense": 90,
@@ -78852,7 +78852,7 @@
     "evolution": [
 
     ],
-    "involution": 151,
+    "involution": null,
     "hp": 100,
     "special_attack": 100,
     "special_defense": 100,
