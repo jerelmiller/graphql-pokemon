@@ -21,11 +21,6 @@
     "attack": 126,
     "defense": 126,
     "stamina": 90,
-    "egg": 2,
-    "rarity": "Uncommon",
-    "spawnRate": 61,
-    "rankingHP": 114,
-    "rankingCP": 110,
     "evolution": [
       {
         "number": "002",
@@ -56,11 +51,6 @@
     "attack": 156,
     "defense": 158,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 421,
-    "rankingHP": 76,
-    "rankingCP": 73,
     "evolution": [
       {
         "number": "003",
@@ -91,11 +81,6 @@
     "attack": 198,
     "defense": 200,
     "stamina": 160,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 641,
-    "rankingHP": 34,
-    "rankingCP": 18,
     "evolution": [],
     "involution": 1
   },
@@ -121,11 +106,6 @@
     "attack": 128,
     "defense": 108,
     "stamina": 78,
-    "egg": 2,
-    "rarity": "Rare",
-    "spawnRate": 119,
-    "rankingHP": 132,
-    "rankingCP": 116,
     "evolution": [
       {
         "number": "005",
@@ -156,11 +136,6 @@
     "attack": 160,
     "defense": 140,
     "stamina": 116,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1025,
-    "rankingHP": 89,
-    "rankingCP": 77,
     "evolution": [
       {
         "number": "006",
@@ -192,11 +167,6 @@
     "attack": 212,
     "defense": 182,
     "stamina": 156,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 879,
-    "rankingHP": 41,
-    "rankingCP": 14,
     "evolution": [],
     "involution": 4
   },
@@ -220,11 +190,6 @@
     "attack": 112,
     "defense": 142,
     "stamina": 88,
-    "egg": 2,
-    "rarity": "Uncommon",
-    "spawnRate": 65,
-    "rankingHP": 117,
-    "rankingCP": 112,
     "evolution": [
       {
         "number": "008",
@@ -253,11 +218,6 @@
     "attack": 144,
     "defense": 176,
     "stamina": 118,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 484,
-    "rankingHP": 88,
-    "rankingCP": 76,
     "evolution": [
       {
         "number": "009",
@@ -286,11 +246,6 @@
     "attack": 186,
     "defense": 222,
     "stamina": 158,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 843,
-    "rankingHP": 40,
-    "rankingCP": 19,
     "evolution": [],
     "involution": 7
   },
@@ -315,11 +270,6 @@
     "attack": 62,
     "defense": 66,
     "stamina": 90,
-    "egg": 2,
-    "rarity": "Uncommon",
-    "spawnRate": 51,
-    "rankingHP": 113,
-    "rankingCP": 150,
     "evolution": [
       {
         "number": "011",
@@ -349,11 +299,6 @@
     "attack": 56,
     "defense": 86,
     "stamina": 100,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 433,
-    "rankingHP": 107,
-    "rankingCP": 147,
     "evolution": [
       {
         "number": "012",
@@ -387,11 +332,6 @@
     "attack": 144,
     "defense": 144,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 843,
-    "rankingHP": 78,
-    "rankingCP": 82,
     "evolution": [],
     "involution": 10
   },
@@ -418,11 +358,6 @@
     "attack": 68,
     "defense": 64,
     "stamina": 80,
-    "egg": 2,
-    "rarity": "Common",
-    "spawnRate": 21,
-    "rankingHP": 125,
-    "rankingCP": 149,
     "evolution": [
       {
         "number": "014",
@@ -454,11 +389,6 @@
     "attack": 62,
     "defense": 82,
     "stamina": 90,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 204,
-    "rankingHP": 111,
-    "rankingCP": 146,
     "evolution": [
       {
         "number": "015",
@@ -490,11 +420,6 @@
     "attack": 144,
     "defense": 130,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 377,
-    "rankingHP": 63,
-    "rankingCP": 84,
     "evolution": [],
     "involution": 13
   },
@@ -520,11 +445,6 @@
     "attack": 94,
     "defense": 90,
     "stamina": 80,
-    "egg": 2,
-    "rarity": "Common",
-    "spawnRate": 10,
-    "rankingHP": 127,
-    "rankingCP": 141,
     "evolution": [
       {
         "number": "017",
@@ -555,11 +475,6 @@
     "attack": 126,
     "defense": 122,
     "stamina": 126,
-    "egg": null,
-    "rarity": "Uncommon",
-    "spawnRate": 75,
-    "rankingHP": 70,
-    "rankingCP": 93,
     "evolution": [
       {
         "number": "018",
@@ -590,11 +505,6 @@
     "attack": 170,
     "defense": 166,
     "stamina": 166,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 203,
-    "rankingHP": 28,
-    "rankingCP": 44,
     "evolution": [],
     "involution": 16
   },
@@ -613,11 +523,6 @@
     "attack": 92,
     "defense": 86,
     "stamina": 60,
-    "egg": 2,
-    "rarity": "Common",
-    "spawnRate": 13,
-    "rankingHP": 141,
-    "rankingCP": 145,
     "evolution": [
       {
         "number": "020",
@@ -641,11 +546,6 @@
     "attack": 146,
     "defense": 150,
     "stamina": 110,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 159,
-    "rankingHP": 91,
-    "rankingCP": 83,
     "evolution": [],
     "involution": 19
   },
@@ -671,11 +571,6 @@
     "attack": 102,
     "defense": 78,
     "stamina": 80,
-    "egg": 2,
-    "rarity": "Uncommon",
-    "spawnRate": 31,
-    "rankingHP": 119,
-    "rankingCP": 140,
     "evolution": [
       {
         "number": "022",
@@ -706,11 +601,6 @@
     "attack": 168,
     "defense": 146,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 221,
-    "rankingHP": 56,
-    "rankingCP": 64,
     "evolution": [],
     "involution": 21
   },
@@ -733,11 +623,6 @@
     "attack": 112,
     "defense": 112,
     "stamina": 70,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 75,
-    "rankingHP": 135,
-    "rankingCP": 132,
     "evolution": [
       {
         "number": "024",
@@ -765,11 +650,6 @@
     "attack": 166,
     "defense": 166,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 544,
-    "rankingHP": 87,
-    "rankingCP": 60,
     "evolution": [],
     "involution": 23
   },
@@ -791,11 +671,6 @@
     "attack": 124,
     "defense": 108,
     "stamina": 70,
-    "egg": 2,
-    "rarity": "Uncommon",
-    "spawnRate": 92,
-    "rankingHP": 136,
-    "rankingCP": 123,
     "evolution": [
       {
         "number": "026",
@@ -822,11 +697,6 @@
     "attack": 200,
     "defense": 154,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2051,
-    "rankingHP": 80,
-    "rankingCP": 50,
     "evolution": [],
     "involution": 25
   },
@@ -853,11 +723,6 @@
     "attack": 90,
     "defense": 114,
     "stamina": 100,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 163,
-    "rankingHP": 106,
-    "rankingCP": 135,
     "evolution": [
       {
         "number": "028",
@@ -889,11 +754,6 @@
     "attack": 150,
     "defense": 172,
     "stamina": 150,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1619,
-    "rankingHP": 42,
-    "rankingCP": 59,
     "evolution": [],
     "involution": 27
   },
@@ -916,11 +776,6 @@
     "attack": 100,
     "defense": 104,
     "stamina": 110,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 77,
-    "rankingHP": 93,
-    "rankingCP": 125,
     "evolution": [
       {
         "number": "030",
@@ -948,11 +803,6 @@
     "attack": 132,
     "defense": 136,
     "stamina": 140,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 504,
-    "rankingHP": 52,
-    "rankingCP": 86,
     "evolution": [
       {
         "number": "031",
@@ -984,11 +834,6 @@
     "attack": 184,
     "defense": 190,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1398,
-    "rankingHP": 19,
-    "rankingCP": 23,
     "evolution": [],
     "involution": 29
   },
@@ -1011,11 +856,6 @@
     "attack": 110,
     "defense": 94,
     "stamina": 92,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 77,
-    "rankingHP": 110,
-    "rankingCP": 129,
     "evolution": [
       {
         "number": "033",
@@ -1043,11 +883,6 @@
     "attack": 142,
     "defense": 128,
     "stamina": 122,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 586,
-    "rankingHP": 72,
-    "rankingCP": 88,
     "evolution": [
       {
         "number": "034",
@@ -1079,11 +914,6 @@
     "attack": 204,
     "defense": 170,
     "stamina": 162,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1025,
-    "rankingHP": 29,
-    "rankingCP": 24,
     "evolution": [],
     "involution": 32
   },
@@ -1107,11 +937,6 @@
     "attack": 116,
     "defense": 124,
     "stamina": 140,
-    "egg": 2,
-    "rarity": "Uncommon",
-    "spawnRate": 85,
-    "rankingHP": 50,
-    "rankingCP": 95,
     "evolution": [
       {
         "number": "036",
@@ -1140,11 +965,6 @@
     "attack": 178,
     "defense": 178,
     "stamina": 190,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1309,
-    "rankingHP": 13,
-    "rankingCP": 25,
     "evolution": [],
     "involution": 35
   },
@@ -1170,11 +990,6 @@
     "attack": 106,
     "defense": 118,
     "stamina": 76,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 188,
-    "rankingHP": 133,
-    "rankingCP": 131,
     "evolution": [
       {
         "number": "038",
@@ -1205,11 +1020,6 @@
     "attack": 176,
     "defense": 194,
     "stamina": 146,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1538,
-    "rankingHP": 46,
-    "rankingCP": 34,
     "evolution": [],
     "involution": 37
   },
@@ -1234,11 +1044,6 @@
     "attack": 98,
     "defense": 54,
     "stamina": 230,
-    "egg": 2,
-    "rarity": "Rare",
-    "spawnRate": 101,
-    "rankingHP": 6,
-    "rankingCP": 119,
     "evolution": [
       {
         "number": "040",
@@ -1268,11 +1073,6 @@
     "attack": 168,
     "defense": 108,
     "stamina": 280,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2051,
-    "rankingHP": 3,
-    "rankingCP": 37,
     "evolution": [],
     "involution": 39
   },
@@ -1300,11 +1100,6 @@
     "attack": 88,
     "defense": 90,
     "stamina": 80,
-    "egg": 2,
-    "rarity": "Common",
-    "spawnRate": 24,
-    "rankingHP": 124,
-    "rankingCP": 143,
     "evolution": [
       {
         "number": "042",
@@ -1337,11 +1132,6 @@
     "attack": 164,
     "defense": 164,
     "stamina": 150,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 209,
-    "rankingHP": 45,
-    "rankingCP": 51,
     "evolution": [],
     "involution": 41
   },
@@ -1367,11 +1157,6 @@
     "attack": 134,
     "defense": 130,
     "stamina": 90,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 91,
-    "rankingHP": 115,
-    "rankingCP": 99,
     "evolution": [
       {
         "number": "044",
@@ -1402,11 +1187,6 @@
     "attack": 162,
     "defense": 158,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 592,
-    "rankingHP": 74,
-    "rankingCP": 70,
     "evolution": [
       {
         "number": "045",
@@ -1437,11 +1217,6 @@
     "attack": 202,
     "defense": 190,
     "stamina": 150,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1864,
-    "rankingHP": 44,
-    "rankingCP": 22,
     "evolution": [],
     "involution": 43
   },
@@ -1472,11 +1247,6 @@
     "attack": 122,
     "defense": 120,
     "stamina": 70,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 44,
-    "rankingHP": 134,
-    "rankingCP": 120,
     "evolution": [
       {
         "number": "047",
@@ -1512,11 +1282,6 @@
     "attack": 162,
     "defense": 170,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 397,
-    "rankingHP": 77,
-    "rankingCP": 62,
     "evolution": [],
     "involution": 46
   },
@@ -1543,11 +1308,6 @@
     "attack": 108,
     "defense": 118,
     "stamina": 120,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 38,
-    "rankingHP": 86,
-    "rankingCP": 111,
     "evolution": [
       {
         "number": "049",
@@ -1579,11 +1339,6 @@
     "attack": 172,
     "defense": 154,
     "stamina": 140,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 300,
-    "rankingHP": 48,
-    "rankingCP": 52,
     "evolution": [],
     "involution": 48
   },
@@ -1610,11 +1365,6 @@
     "attack": 108,
     "defense": 86,
     "stamina": 20,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 211,
-    "rankingHP": 151,
-    "rankingCP": 148,
     "evolution": [
       {
         "number": "051",
@@ -1646,11 +1396,6 @@
     "attack": 148,
     "defense": 140,
     "stamina": 70,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1663,
-    "rankingHP": 140,
-    "rankingCP": 97,
     "evolution": [],
     "involution": 50
   },
@@ -1669,11 +1414,6 @@
     "attack": 104,
     "defense": 94,
     "stamina": 80,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 106,
-    "rankingHP": 126,
-    "rankingCP": 139,
     "evolution": [
       {
         "number": "053",
@@ -1697,11 +1437,6 @@
     "attack": 156,
     "defense": 146,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1282,
-    "rankingHP": 54,
-    "rankingCP": 74,
     "evolution": [],
     "involution": 52
   },
@@ -1725,11 +1460,6 @@
     "attack": 132,
     "defense": 112,
     "stamina": 100,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 108,
-    "rankingHP": 102,
-    "rankingCP": 103,
     "evolution": [
       {
         "number": "055",
@@ -1758,11 +1488,6 @@
     "attack": 194,
     "defense": 176,
     "stamina": 160,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 707,
-    "rankingHP": 35,
-    "rankingCP": 26,
     "evolution": [],
     "involution": 54
   },
@@ -1789,11 +1514,6 @@
     "attack": 122,
     "defense": 96,
     "stamina": 80,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 114,
-    "rankingHP": 130,
-    "rankingCP": 124,
     "evolution": [
       {
         "number": "057",
@@ -1825,11 +1545,6 @@
     "attack": 178,
     "defense": 150,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1061,
-    "rankingHP": 64,
-    "rankingCP": 54,
     "evolution": [],
     "involution": 56
   },
@@ -1855,11 +1570,6 @@
     "attack": 156,
     "defense": 110,
     "stamina": 110,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 77,
-    "rankingHP": 95,
-    "rankingCP": 90,
     "evolution": [
       {
         "number": "059",
@@ -1890,11 +1600,6 @@
     "attack": 230,
     "defense": 180,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 932,
-    "rankingHP": 21,
-    "rankingCP": 7,
     "evolution": [],
     "involution": 58
   },
@@ -1918,11 +1623,6 @@
     "attack": 108,
     "defense": 98,
     "stamina": 80,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 95,
-    "rankingHP": 123,
-    "rankingCP": 136,
     "evolution": [
       {
         "number": "061",
@@ -1951,11 +1651,6 @@
     "attack": 132,
     "defense": 132,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 481,
-    "rankingHP": 53,
-    "rankingCP": 89,
     "evolution": [
       {
         "number": "062",
@@ -1992,11 +1687,6 @@
     "attack": 180,
     "defense": 202,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1709,
-    "rankingHP": 20,
-    "rankingCP": 21,
     "evolution": [],
     "involution": 60
   },
@@ -2020,11 +1710,6 @@
     "attack": 110,
     "defense": 76,
     "stamina": 50,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 104,
-    "rankingHP": 149,
-    "rankingCP": 144,
     "evolution": [
       {
         "number": "064",
@@ -2053,11 +1738,6 @@
     "attack": 150,
     "defense": 112,
     "stamina": 80,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 779,
-    "rankingHP": 121,
-    "rankingCP": 100,
     "evolution": [
       {
         "number": "065",
@@ -2086,11 +1766,6 @@
     "attack": 186,
     "defense": 152,
     "stamina": 110,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2461,
-    "rankingHP": 92,
-    "rankingCP": 58,
     "evolution": [],
     "involution": 63
   },
@@ -2117,11 +1792,6 @@
     "attack": 118,
     "defense": 96,
     "stamina": 140,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 217,
-    "rankingHP": 51,
-    "rankingCP": 107,
     "evolution": [
       {
         "number": "067",
@@ -2153,11 +1823,6 @@
     "attack": 154,
     "defense": 144,
     "stamina": 160,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1465,
-    "rankingHP": 30,
-    "rankingCP": 61,
     "evolution": [
       {
         "number": "068",
@@ -2189,11 +1854,6 @@
     "attack": 198,
     "defense": 180,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 3418,
-    "rankingHP": 26,
-    "rankingCP": 17,
     "evolution": [],
     "involution": 66
   },
@@ -2219,11 +1879,6 @@
     "attack": 158,
     "defense": 78,
     "stamina": 100,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 86,
-    "rankingHP": 105,
-    "rankingCP": 102,
     "evolution": [
       {
         "number": "070",
@@ -2254,11 +1909,6 @@
     "attack": 190,
     "defense": 110,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 496,
-    "rankingHP": 62,
-    "rankingCP": 66,
     "evolution": [
       {
         "number": "071",
@@ -2289,11 +1939,6 @@
     "attack": 222,
     "defense": 152,
     "stamina": 160,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2051,
-    "rankingHP": 39,
-    "rankingCP": 20,
     "evolution": [],
     "involution": 69
   },
@@ -2318,11 +1963,6 @@
     "attack": 106,
     "defense": 136,
     "stamina": 80,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 275,
-    "rankingHP": 131,
-    "rankingCP": 121,
     "evolution": [
       {
         "number": "073",
@@ -2352,11 +1992,6 @@
     "attack": 170,
     "defense": 196,
     "stamina": 160,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 615,
-    "rankingHP": 36,
-    "rankingCP": 32,
     "evolution": [],
     "involution": 72
   },
@@ -2387,11 +2022,6 @@
     "attack": 106,
     "defense": 118,
     "stamina": 80,
-    "egg": 2,
-    "rarity": "Rare",
-    "spawnRate": 121,
-    "rankingHP": 129,
-    "rankingCP": 128,
     "evolution": [
       {
         "number": "075",
@@ -2427,11 +2057,6 @@
     "attack": 142,
     "defense": 156,
     "stamina": 110,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 707,
-    "rankingHP": 90,
-    "rankingCP": 85,
     "evolution": [
       {
         "number": "076",
@@ -2467,11 +2092,6 @@
     "attack": 176,
     "defense": 198,
     "stamina": 160,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2797,
-    "rankingHP": 33,
-    "rankingCP": 27,
     "evolution": [],
     "involution": 74
   },
@@ -2497,11 +2117,6 @@
     "attack": 168,
     "defense": 138,
     "stamina": 100,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 121,
-    "rankingHP": 100,
-    "rankingCP": 78,
     "evolution": [
       {
         "number": "078",
@@ -2532,11 +2147,6 @@
     "attack": 200,
     "defense": 170,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 992,
-    "rankingHP": 66,
-    "rankingCP": 33,
     "evolution": [],
     "involution": 77
   },
@@ -2566,11 +2176,6 @@
     "attack": 110,
     "defense": 110,
     "stamina": 180,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 175,
-    "rankingHP": 22,
-    "rankingCP": 94,
     "evolution": [
       {
         "number": "080",
@@ -2605,11 +2210,6 @@
     "attack": 184,
     "defense": 198,
     "stamina": 190,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 947,
-    "rankingHP": 12,
-    "rankingCP": 16,
     "evolution": [],
     "involution": 79
   },
@@ -2636,11 +2236,6 @@
     "attack": 128,
     "defense": 138,
     "stamina": 50,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 200,
-    "rankingHP": 148,
-    "rankingCP": 122,
     "evolution": [
       {
         "number": "082",
@@ -2672,11 +2267,6 @@
     "attack": 186,
     "defense": 180,
     "stamina": 100,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2051,
-    "rankingHP": 99,
-    "rankingCP": 53,
     "evolution": [],
     "involution": 81
   },
@@ -2702,11 +2292,6 @@
     "attack": 138,
     "defense": 132,
     "stamina": 104,
-    "egg": 5,
-    "rarity": "Ultra Rare",
-    "spawnRate": 61527,
-    "rankingHP": 98,
-    "rankingCP": 92,
     "evolution": [],
     "involution": 83
   },
@@ -2732,11 +2317,6 @@
     "attack": 126,
     "defense": 96,
     "stamina": 70,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 77,
-    "rankingHP": 137,
-    "rankingCP": 127,
     "evolution": [
       {
         "number": "085",
@@ -2767,11 +2347,6 @@
     "attack": 182,
     "defense": 150,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 634,
-    "rankingHP": 85,
-    "rankingCP": 56,
     "evolution": [],
     "involution": 84
   },
@@ -2795,11 +2370,6 @@
     "attack": 104,
     "defense": 138,
     "stamina": 130,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 196,
-    "rankingHP": 57,
-    "rankingCP": 104,
     "evolution": [
       {
         "number": "087",
@@ -2831,11 +2401,6 @@
     "attack": 156,
     "defense": 192,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1578,
-    "rankingHP": 18,
-    "rankingCP": 39,
     "evolution": [],
     "involution": 86
   },
@@ -2858,11 +2423,6 @@
     "attack": 124,
     "defense": 110,
     "stamina": 160,
-    "egg": 5,
-    "rarity": "Very Rare",
-    "spawnRate": 879,
-    "rankingHP": 31,
-    "rankingCP": 91,
     "evolution": [
       {
         "number": "089",
@@ -2890,11 +2450,6 @@
     "attack": 180,
     "defense": 188,
     "stamina": 210,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 7691,
-    "rankingHP": 8,
-    "rankingCP": 15,
     "evolution": [],
     "involution": 88
   },
@@ -2918,11 +2473,6 @@
     "attack": 120,
     "defense": 112,
     "stamina": 60,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 177,
-    "rankingHP": 143,
-    "rankingCP": 133,
     "evolution": [
       {
         "number": "091",
@@ -2954,11 +2504,6 @@
     "attack": 196,
     "defense": 196,
     "stamina": 100,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1578,
-    "rankingHP": 101,
-    "rankingCP": 47,
     "evolution": [],
     "involution": 90
   },
@@ -2984,11 +2529,6 @@
     "attack": 136,
     "defense": 82,
     "stamina": 60,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 77,
-    "rankingHP": 144,
-    "rankingCP": 134,
     "evolution": [
       {
         "number": "093",
@@ -3019,11 +2559,6 @@
     "attack": 172,
     "defense": 118,
     "stamina": 90,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 419,
-    "rankingHP": 116,
-    "rankingCP": 87,
     "evolution": [
       {
         "number": "094",
@@ -3054,11 +2589,6 @@
     "attack": 204,
     "defense": 156,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1758,
-    "rankingHP": 84,
-    "rankingCP": 45,
     "evolution": [],
     "involution": 92
   },
@@ -3089,11 +2619,6 @@
     "attack": 90,
     "defense": 186,
     "stamina": 70,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 269,
-    "rankingHP": 139,
-    "rankingCP": 126,
     "evolution": [],
     "involution": 95
   },
@@ -3117,11 +2642,6 @@
     "attack": 104,
     "defense": 140,
     "stamina": 120,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 39,
-    "rankingHP": 73,
-    "rankingCP": 109,
     "evolution": [
       {
         "number": "097",
@@ -3150,11 +2670,6 @@
     "attack": 162,
     "defense": 196,
     "stamina": 170,
-    "egg": null,
-    "rarity": "Rare",
-    "spawnRate": 322,
-    "rankingHP": 27,
-    "rankingCP": 35,
     "evolution": [],
     "involution": 96
   },
@@ -3178,11 +2693,6 @@
     "attack": 116,
     "defense": 110,
     "stamina": 60,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 73,
-    "rankingHP": 146,
-    "rankingCP": 138,
     "evolution": [
       {
         "number": "099",
@@ -3211,11 +2721,6 @@
     "attack": 178,
     "defense": 168,
     "stamina": 110,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 530,
-    "rankingHP": 94,
-    "rankingCP": 57,
     "evolution": [],
     "involution": 98
   },
@@ -3237,11 +2742,6 @@
     "attack": 102,
     "defense": 124,
     "stamina": 80,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 276,
-    "rankingHP": 120,
-    "rankingCP": 130,
     "evolution": [
       {
         "number": "101",
@@ -3268,11 +2768,6 @@
     "attack": 150,
     "defense": 174,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1985,
-    "rankingHP": 82,
-    "rankingCP": 72,
     "evolution": [],
     "involution": 100
   },
@@ -3303,11 +2798,6 @@
     "attack": 110,
     "defense": 132,
     "stamina": 120,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 123,
-    "rankingHP": 81,
-    "rankingCP": 106,
     "evolution": [
       {
         "number": "103",
@@ -3343,11 +2833,6 @@
     "attack": 232,
     "defense": 164,
     "stamina": 190,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1231,
-    "rankingHP": 14,
-    "rankingCP": 10,
     "evolution": [],
     "involution": 102
   },
@@ -3374,11 +2859,6 @@
     "attack": 102,
     "defense": 150,
     "stamina": 100,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 163,
-    "rankingHP": 108,
-    "rankingCP": 113,
     "evolution": [
       {
         "number": "105",
@@ -3410,11 +2890,6 @@
     "attack": 140,
     "defense": 202,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1431,
-    "rankingHP": 79,
-    "rankingCP": 71,
     "evolution": [],
     "involution": 104
   },
@@ -3441,11 +2916,6 @@
     "attack": 148,
     "defense": 172,
     "stamina": 100,
-    "egg": 10,
-    "rarity": "Very Rare",
-    "spawnRate": 504,
-    "rankingHP": 103,
-    "rankingCP": 81,
     "evolution": [],
     "involution": 106
   },
@@ -3472,11 +2942,6 @@
     "attack": 138,
     "defense": 204,
     "stamina": 100,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 446,
-    "rankingHP": 104,
-    "rankingCP": 79,
     "evolution": [],
     "involution": 107
   },
@@ -3495,11 +2960,6 @@
     "attack": 126,
     "defense": 160,
     "stamina": 180,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 443,
-    "rankingHP": 24,
-    "rankingCP": 75,
     "evolution": [],
     "involution": 108
   },
@@ -3521,11 +2981,6 @@
     "attack": 136,
     "defense": 142,
     "stamina": 80,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 213,
-    "rankingHP": 122,
-    "rankingCP": 98,
     "evolution": [
       {
         "number": "110",
@@ -3552,11 +3007,6 @@
     "attack": 190,
     "defense": 198,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1398,
-    "rankingHP": 67,
-    "rankingCP": 29,
     "evolution": [],
     "involution": 109
   },
@@ -3587,11 +3037,6 @@
     "attack": 110,
     "defense": 116,
     "stamina": 160,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 110,
-    "rankingHP": 32,
-    "rankingCP": 96,
     "evolution": [
       {
         "number": "112",
@@ -3627,11 +3072,6 @@
     "attack": 166,
     "defense": 160,
     "stamina": 210,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 867,
-    "rankingHP": 9,
-    "rankingCP": 30,
     "evolution": [],
     "involution": 111
   },
@@ -3657,11 +3097,6 @@
     "attack": 40,
     "defense": 60,
     "stamina": 500,
-    "egg": 10,
-    "rarity": "Very Rare",
-    "spawnRate": 1256,
-    "rankingHP": 1,
-    "rankingCP": 142,
     "evolution": [],
     "involution": 113
   },
@@ -3688,11 +3123,6 @@
     "attack": 164,
     "defense": 152,
     "stamina": 130,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 346,
-    "rankingHP": 65,
-    "rankingCP": 65,
     "evolution": [],
     "involution": 114
   },
@@ -3711,11 +3141,6 @@
     "attack": 142,
     "defense": 178,
     "stamina": 210,
-    "egg": 5,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2461,
-    "rankingHP": 10,
-    "rankingCP": 48,
     "evolution": [],
     "involution": 115
   },
@@ -3739,11 +3164,6 @@
     "attack": 122,
     "defense": 100,
     "stamina": 60,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 104,
-    "rankingHP": 145,
-    "rankingCP": 137,
     "evolution": [
       {
         "number": "117",
@@ -3772,11 +3192,6 @@
     "attack": 176,
     "defense": 150,
     "stamina": 110,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 760,
-    "rankingHP": 96,
-    "rankingCP": 68,
     "evolution": [],
     "involution": 116
   },
@@ -3800,11 +3215,6 @@
     "attack": 112,
     "defense": 126,
     "stamina": 90,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 103,
-    "rankingHP": 112,
-    "rankingCP": 115,
     "evolution": [
       {
         "number": "119",
@@ -3833,11 +3243,6 @@
     "attack": 172,
     "defense": 160,
     "stamina": 160,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 684,
-    "rankingHP": 38,
-    "rankingCP": 49,
     "evolution": [],
     "involution": 118
   },
@@ -3861,11 +3266,6 @@
     "attack": 130,
     "defense": 128,
     "stamina": 60,
-    "egg": 5,
-    "rarity": "Uncommon",
-    "spawnRate": 97,
-    "rankingHP": 147,
-    "rankingCP": 117,
     "evolution": [
       {
         "number": "121",
@@ -3900,11 +3300,6 @@
     "attack": 194,
     "defense": 192,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1206,
-    "rankingHP": 83,
-    "rankingCP": 36,
     "evolution": [],
     "involution": 120
   },
@@ -3929,11 +3324,6 @@
     "attack": 154,
     "defense": 196,
     "stamina": 80,
-    "egg": 10,
-    "rarity": "Very Rare",
-    "spawnRate": 1431,
-    "rankingHP": 128,
-    "rankingCP": 80,
     "evolution": [],
     "involution": 122
   },
@@ -3962,11 +3352,6 @@
     "attack": 176,
     "defense": 180,
     "stamina": 140,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 155,
-    "rankingHP": 49,
-    "rankingCP": 46,
     "evolution": [],
     "involution": 123
   },
@@ -3996,11 +3381,6 @@
     "attack": 172,
     "defense": 134,
     "stamina": 130,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 152,
-    "rankingHP": 59,
-    "rankingCP": 67,
     "evolution": [],
     "involution": 124
   },
@@ -4022,11 +3402,6 @@
     "attack": 198,
     "defense": 160,
     "stamina": 130,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 261,
-    "rankingHP": 69,
-    "rankingCP": 43,
     "evolution": [],
     "involution": 125
   },
@@ -4052,11 +3427,6 @@
     "attack": 214,
     "defense": 158,
     "stamina": 130,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 213,
-    "rankingHP": 68,
-    "rankingCP": 28,
     "evolution": [],
     "involution": 126
   },
@@ -4081,11 +3451,6 @@
     "attack": 184,
     "defense": 186,
     "stamina": 130,
-    "egg": 10,
-    "rarity": "Uncommon",
-    "spawnRate": 99,
-    "rankingHP": 55,
-    "rankingCP": 42,
     "evolution": [],
     "involution": 127
   },
@@ -4104,11 +3469,6 @@
     "attack": 148,
     "defense": 184,
     "stamina": 150,
-    "egg": 5,
-    "rarity": "Rare",
-    "spawnRate": 153,
-    "rankingHP": 43,
-    "rankingCP": 55,
     "evolution": [],
     "involution": 128
   },
@@ -4132,11 +3492,6 @@
     "attack": 42,
     "defense": 84,
     "stamina": 40,
-    "egg": 2,
-    "rarity": "Uncommon",
-    "spawnRate": 79,
-    "rankingHP": 150,
-    "rankingCP": 151,
     "evolution": [
       {
         "number": "130",
@@ -4167,11 +3522,6 @@
     "attack": 192,
     "defense": 196,
     "stamina": 190,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2279,
-    "rankingHP": 15,
-    "rankingCP": 12,
     "evolution": [],
     "involution": 129
   },
@@ -4198,11 +3548,6 @@
     "attack": 186,
     "defense": 190,
     "stamina": 260,
-    "egg": 10,
-    "rarity": "Very Rare",
-    "spawnRate": 1183,
-    "rankingHP": 5,
-    "rankingCP": 8,
     "evolution": [],
     "involution": 131
   },
@@ -4221,11 +3566,6 @@
     "attack": 110,
     "defense": 110,
     "stamina": 96,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 30764,
-    "rankingHP": 109,
-    "rankingCP": 118,
     "evolution": [],
     "involution": 132
   },
@@ -4244,11 +3584,6 @@
     "attack": 114,
     "defense": 128,
     "stamina": 110,
-    "egg": 10,
-    "rarity": "Common",
-    "spawnRate": 24,
-    "rankingHP": 97,
-    "rankingCP": 108,
     "evolution": [
       {
         "number": "134",
@@ -4285,11 +3620,6 @@
     "attack": 186,
     "defense": 168,
     "stamina": 260,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1465,
-    "rankingHP": 4,
-    "rankingCP": 11,
     "evolution": [],
     "involution": 133
   },
@@ -4311,11 +3641,6 @@
     "attack": 192,
     "defense": 174,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 1309,
-    "rankingHP": 61,
-    "rankingCP": 40,
     "evolution": [],
     "involution": 133
   },
@@ -4341,11 +3666,6 @@
     "attack": 238,
     "defense": 178,
     "stamina": 130,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 1568,
-    "rankingHP": 60,
-    "rankingCP": 13,
     "evolution": [],
     "involution": 133
   },
@@ -4364,11 +3684,6 @@
     "attack": 156,
     "defense": 158,
     "stamina": 130,
-    "egg": 5,
-    "rarity": "Very Rare",
-    "spawnRate": 867,
-    "rankingHP": 58,
-    "rankingCP": 69,
     "evolution": [],
     "involution": 137
   },
@@ -4397,11 +3712,6 @@
     "attack": 132,
     "defense": 160,
     "stamina": 70,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 346,
-    "rankingHP": 138,
-    "rankingCP": 101,
     "evolution": [
       {
         "number": "139",
@@ -4435,11 +3745,6 @@
     "attack": 180,
     "defense": 202,
     "stamina": 140,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 6153,
-    "rankingHP": 47,
-    "rankingCP": 31,
     "evolution": [],
     "involution": 138
   },
@@ -4468,11 +3773,6 @@
     "attack": 148,
     "defense": 142,
     "stamina": 60,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 356,
-    "rankingHP": 142,
-    "rankingCP": 105,
     "evolution": [
       {
         "number": "141",
@@ -4506,11 +3806,6 @@
     "attack": 190,
     "defense": 190,
     "stamina": 120,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 2930,
-    "rankingHP": 75,
-    "rankingCP": 41,
     "evolution": [],
     "involution": 140
   },
@@ -4540,11 +3835,6 @@
     "attack": 182,
     "defense": 162,
     "stamina": 160,
-    "egg": 10,
-    "rarity": "Very Rare",
-    "spawnRate": 879,
-    "rankingHP": 37,
-    "rankingCP": 38,
     "evolution": [],
     "involution": 142
   },
@@ -4563,11 +3853,6 @@
     "attack": 180,
     "defense": 180,
     "stamina": 320,
-    "egg": 10,
-    "rarity": "Rare",
-    "spawnRate": 284,
-    "rankingHP": 2,
-    "rankingCP": 6,
     "evolution": [],
     "involution": 143
   },
@@ -4597,11 +3882,6 @@
     "attack": 198,
     "defense": 242,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 99999,
-    "rankingHP": 17,
-    "rankingCP": 9,
     "evolution": [],
     "involution": 144
   },
@@ -4627,11 +3907,6 @@
     "attack": 232,
     "defense": 194,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 99999,
-    "rankingHP": 25,
-    "rankingCP": 5,
     "evolution": [],
     "involution": 145
   },
@@ -4658,11 +3933,6 @@
     "attack": 242,
     "defense": 194,
     "stamina": 180,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 99999,
-    "rankingHP": 23,
-    "rankingCP": 4,
     "evolution": [],
     "involution": 146
   },
@@ -4685,11 +3955,6 @@
     "attack": 128,
     "defense": 110,
     "stamina": 82,
-    "egg": 10,
-    "rarity": "Uncommon",
-    "spawnRate": 91,
-    "rankingHP": 118,
-    "rankingCP": 114,
     "evolution": [
       {
         "number": "148",
@@ -4717,11 +3982,6 @@
     "attack": 170,
     "defense": 152,
     "stamina": 122,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 699,
-    "rankingHP": 71,
-    "rankingCP": 63,
     "evolution": [
       {
         "number": "149",
@@ -4754,11 +4014,6 @@
     "attack": 250,
     "defense": 212,
     "stamina": 182,
-    "egg": null,
-    "rarity": "Very Rare",
-    "spawnRate": 580,
-    "rankingHP": 16,
-    "rankingCP": 2,
     "evolution": [],
     "involution": 147
   },
@@ -4782,11 +4037,6 @@
     "attack": 284,
     "defense": 202,
     "stamina": 212,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 99999,
-    "rankingHP": 7,
-    "rankingCP": 1,
     "evolution": [],
     "involution": 150
   },
@@ -4810,11 +4060,6 @@
     "attack": 220,
     "defense": 220,
     "stamina": 200,
-    "egg": null,
-    "rarity": "Ultra Rare",
-    "spawnRate": 99999,
-    "rankingHP": 11,
-    "rankingCP": 3,
     "evolution": [],
     "involution": 151
   }
