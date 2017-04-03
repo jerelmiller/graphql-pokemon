@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170402214323) do
+ActiveRecord::Schema.define(version: 20170403004318) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -46,9 +46,15 @@ ActiveRecord::Schema.define(version: 20170402214323) do
   end
 
   create_table "pokemons", force: :cascade do |t|
-    t.string "number",      null: false
-    t.string "name",        null: false
-    t.text   "description"
+    t.string  "number",          null: false
+    t.string  "name",            null: false
+    t.text    "description"
+    t.integer "attack",          null: false
+    t.integer "defense",         null: false
+    t.integer "hp",              null: false
+    t.integer "special_attack",  null: false
+    t.integer "special_defense", null: false
+    t.integer "speed",           null: false
     t.index ["name"], name: "index_pokemons_on_name", unique: true, using: :btree
     t.index ["number"], name: "index_pokemons_on_number", unique: true, using: :btree
   end
