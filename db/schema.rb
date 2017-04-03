@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170403020227) do
+ActiveRecord::Schema.define(version: 20170403022238) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -29,6 +29,17 @@ ActiveRecord::Schema.define(version: 20170403020227) do
     t.integer "effect_chance"
     t.index ["effect_id"], name: "index_moves_on_effect_id", using: :btree
     t.index ["type_id"], name: "index_moves_on_type_id", using: :btree
+  end
+
+  create_table "pokemon_moves", force: :cascade do |t|
+    t.integer  "pokemon_id", null: false
+    t.integer  "move_id",    null: false
+    t.integer  "level",      null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["move_id"], name: "index_pokemon_moves_on_move_id", using: :btree
+    t.index ["pokemon_id", "move_id"], name: "index_pokemon_moves_on_pokemon_id_and_move_id", unique: true, using: :btree
+    t.index ["pokemon_id"], name: "index_pokemon_moves_on_pokemon_id", using: :btree
   end
 
   create_table "pokemon_strengths", force: :cascade do |t|
@@ -82,6 +93,8 @@ ActiveRecord::Schema.define(version: 20170403020227) do
 
   add_foreign_key "moves", "effects"
   add_foreign_key "moves", "types"
+  add_foreign_key "pokemon_moves", "moves"
+  add_foreign_key "pokemon_moves", "pokemons"
   add_foreign_key "pokemon_strengths", "pokemons"
   add_foreign_key "pokemon_strengths", "types"
   add_foreign_key "pokemon_types", "pokemons"
