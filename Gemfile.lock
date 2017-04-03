@@ -41,6 +41,9 @@ GEM
     arel (7.1.4)
     builder (3.2.3)
     byebug (9.0.6)
+    closure_tree (6.5.0)
+      activerecord (>= 4.1.0)
+      with_advisory_lock (>= 3.0.0)
     coderay (1.1.1)
     concurrent-ruby (1.0.5)
     erubis (2.7.0)
@@ -126,12 +129,16 @@ GEM
     websocket-driver (0.6.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
+    with_advisory_lock (3.1.0)
+      activerecord (>= 3.2)
+      thread_safe
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   byebug
+  closure_tree (~> 6.5.0)
   graphiql-rails
   graphql (~> 1.5.5)
   listen (~> 3.0.5)

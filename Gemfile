@@ -10,6 +10,7 @@ gem 'pg', '~> 0.19.0'
 gem 'puma', '~> 3.0'
 gem 'rack-cors', '~> 0.4.1'
 gem 'graphql', '~> 1.5.5'
+gem 'closure_tree', '~> 6.5.0'
 
 group :development, :test do
   gem 'byebug', platform: :mri
