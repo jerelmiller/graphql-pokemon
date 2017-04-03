@@ -2,5 +2,5 @@ class PokemonMove < ApplicationRecord
   belongs_to :pokemon
   belongs_to :move
 
-  validates :level, presence: true
+  validates :pokemon, :move, :level, presence: true
 end
