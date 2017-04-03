@@ -3,7 +3,6 @@ Types::PokemonMoveType = GraphQL::ObjectType.define do
 
   field :level, !types.Int
 
-  field :move, !Types::MoveType do
-    resolve ->(pokemon_move, args, ctx) { pokemon_move.move }
-  end
+  field :move, !Types::MoveType
+  field :moveMethod, !Types::MoveMethodType, property: :move_method
 end
