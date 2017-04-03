@@ -7,7 +7,13 @@ pokemons.each do |pokemon_json|
   pokemon = Pokemon.create!(
     name: pokemon_json[:name],
     number: pokemon_json[:number],
-    description: pokemon_json[:description]
+    description: pokemon_json[:description],
+    attack: pokemon_json[:attack],
+    defense: pokemon_json[:defense],
+    hp: pokemon_json[:hp],
+    special_attack: pokemon_json[:special_attack],
+    special_defense: pokemon_json[:special_defense],
+    speed: pokemon_json[:speed]
   )
 
   pokemon_json[:types].each do |type|
