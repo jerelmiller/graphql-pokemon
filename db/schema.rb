@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170403032953) do
+ActiveRecord::Schema.define(version: 20170403035236) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -53,7 +53,6 @@ ActiveRecord::Schema.define(version: 20170403032953) do
     t.integer  "move_method_id", null: false
     t.index ["move_id"], name: "index_pokemon_moves_on_move_id", using: :btree
     t.index ["move_method_id"], name: "index_pokemon_moves_on_move_method_id", using: :btree
-    t.index ["pokemon_id", "move_id", "move_method_id"], name: "index_pokemon_move_pokemon_move", unique: true, using: :btree
     t.index ["pokemon_id"], name: "index_pokemon_moves_on_pokemon_id", using: :btree
   end
 
