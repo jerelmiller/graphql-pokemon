@@ -10,6 +10,10 @@ class Pokemon < ApplicationRecord
 
   has_many :pokemon_moves, -> { includes(:move) }
 
+  has_closure_tree parent_column_name: :involution_id,
+    hierarchy_class_name: 'EvolutionHierarchy',
+    hierarchy_table_name: 'evolution_hierarchies'
+
   validates :name,
     :number,
     :attack,

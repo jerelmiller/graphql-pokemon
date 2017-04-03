@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170403035236) do
+ActiveRecord::Schema.define(version: 20170403051511) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -19,6 +19,14 @@ ActiveRecord::Schema.define(version: 20170403035236) do
     t.text     "description", null: false
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
+  end
+
+  create_table "evolution_hierarchies", id: false, force: :cascade do |t|
+    t.integer "ancestor_id",   null: false
+    t.integer "descendant_id", null: false
+    t.integer "generations",   null: false
+    t.index ["ancestor_id", "descendant_id", "generations"], name: "pokemon_anc_desc_idx", unique: true, using: :btree
+    t.index ["descendant_id"], name: "pokemon_desc_idx", using: :btree
   end
 
   create_table "move_methods", force: :cascade do |t|
@@ -96,6 +104,7 @@ ActiveRecord::Schema.define(version: 20170403035236) do
     t.integer "special_attack",  null: false
     t.integer "special_defense", null: false
     t.integer "speed",           null: false
+    t.integer "involution_id"
     t.index ["name"], name: "index_pokemons_on_name", unique: true, using: :btree
     t.index ["number"], name: "index_pokemons_on_number", unique: true, using: :btree
   end
