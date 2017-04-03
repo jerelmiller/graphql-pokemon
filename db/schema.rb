@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170403051511) do
+ActiveRecord::Schema.define(version: 20170403061334) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -105,6 +105,8 @@ ActiveRecord::Schema.define(version: 20170403051511) do
     t.integer "special_defense", null: false
     t.integer "speed",           null: false
     t.integer "involution_id"
+    t.float   "height"
+    t.float   "weight"
     t.index ["name"], name: "index_pokemons_on_name", unique: true, using: :btree
     t.index ["number"], name: "index_pokemons_on_number", unique: true, using: :btree
   end
