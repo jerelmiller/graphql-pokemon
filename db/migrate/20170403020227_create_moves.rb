@@ -10,6 +10,9 @@ class CreateMoves < ActiveRecord::Migration[5.0]
       t.integer :pp, null: false
       t.integer :accuracy
       t.integer :effect_chance
+      t.timestamps
     end
+
+    add_index :moves, [:name], unique: true
   end
 end

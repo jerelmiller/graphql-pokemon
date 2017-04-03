@@ -20,14 +20,17 @@ ActiveRecord::Schema.define(version: 20170403022238) do
   end
 
   create_table "moves", force: :cascade do |t|
-    t.integer "type_id",       null: false
-    t.integer "effect_id",     null: false
-    t.string  "name",          null: false
-    t.integer "power"
-    t.integer "pp",            null: false
-    t.integer "accuracy"
-    t.integer "effect_chance"
+    t.integer  "type_id",       null: false
+    t.integer  "effect_id",     null: false
+    t.string   "name",          null: false
+    t.integer  "power"
+    t.integer  "pp",            null: false
+    t.integer  "accuracy"
+    t.integer  "effect_chance"
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
     t.index ["effect_id"], name: "index_moves_on_effect_id", using: :btree
+    t.index ["name"], name: "index_moves_on_name", unique: true, using: :btree
     t.index ["type_id"], name: "index_moves_on_type_id", using: :btree
   end
 
