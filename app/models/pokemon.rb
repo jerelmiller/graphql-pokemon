@@ -8,6 +8,8 @@ class Pokemon < ApplicationRecord
   has_many :pokemon_strengths
   has_many :strengths, through: :pokemon_strengths, source: :type
 
+  has_many :pokemon_moves, -> { includes(:move) }
+
   validates :name,
     :number,
     :attack,
