@@ -16,7 +16,9 @@ ActiveRecord::Schema.define(version: 20170403022238) do
   enable_extension "plpgsql"
 
   create_table "effects", force: :cascade do |t|
-    t.text "description", null: false
+    t.text     "description", null: false
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
   end
 
   create_table "moves", force: :cascade do |t|
