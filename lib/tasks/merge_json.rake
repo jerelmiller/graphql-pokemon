@@ -18,7 +18,7 @@ task :merge_json do
 
   pokemon_moves =
     pokemon_moves.select do |pokemon_move|
-      ['1', '2'].include?(pokemon_move['version_group_id'])
+      ['1'].include?(pokemon_move['version_group_id'])
     end
     .group_by { |pokemon_move| pokemon_move['pokemon_id'] }
 
@@ -32,6 +32,10 @@ task :merge_json do
 
   pokemons.each_with_index do |pokemon_entry, idx|
     pokemon_entry['moves'] = []
+
+    if pokemon_moves[pokemon_entry['number'].to_i.to_s].blank?
+      raise 'NO MOVES'
+    end
 
     pokemon_moves[pokemon_entry['number'].to_i.to_s].each do |pokemon_move|
       move = moves.find { |move| move['id'] == pokemon_move['move_id'] }
