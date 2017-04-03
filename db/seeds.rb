@@ -27,6 +27,8 @@ ActiveRecord::Base.transaction do
       special_attack: pokemon_json[:special_attack],
       special_defense: pokemon_json[:special_defense],
       speed: pokemon_json[:speed],
+      height: pokemon_json[:height],
+      weight: pokemon_json[:weight],
       parent: cached_pokemon[pokemon_json[:involution]]
     )
 
