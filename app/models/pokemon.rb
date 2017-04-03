@@ -1,6 +1,4 @@
 class Pokemon < ApplicationRecord
-  validates :name, :number, presence: true
-
   has_many :pokemon_types
   has_many :types, through: :pokemon_types
 
@@ -9,4 +7,14 @@ class Pokemon < ApplicationRecord
 
   has_many :pokemon_strengths
   has_many :strengths, through: :pokemon_strengths, source: :type
+
+  validates :name,
+    :number,
+    :attack,
+    :defense,
+    :hp,
+    :special_attack,
+    :special_defense,
+    :speed,
+    presence: true
 end
