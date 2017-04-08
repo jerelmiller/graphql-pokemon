@@ -28,4 +28,8 @@ class Pokemon < ApplicationRecord
   def evolutions
     root.self_and_descendants
   end
+
+  def weight
+    Weight.new(self[:weight])
+  end
 end
