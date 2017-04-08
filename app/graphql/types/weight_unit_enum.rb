@@ -1,5 +1,5 @@
-Types::WeightEnum = GraphQL::EnumType.define do
-  name 'Weight'
+Types::WeightUnitEnum = GraphQL::EnumType.define do
+  name 'WeightUnit'
   description 'Units of weight'
 
   value Weight::Unit::KILOGRAM, 'weight in kilograms'
