@@ -47,8 +47,8 @@ task :merge_json do
       involution_id.rjust(3, '0') :
       nil
 
-    pokemon_entry['height'] = (pokemon_csv_entry['height'].to_i / 3.0).round(2) # in feet
-    pokemon_entry['weight'] = (pokemon_csv_entry['weight'].to_i / 10.0 * 2.2).round(2) # convert to pounds
+    pokemon_entry['height'] = (pokemon_csv_entry['height'].to_i / 10.0).round(2) # in meters
+    pokemon_entry['weight'] = (pokemon_csv_entry['weight'].to_i / 10.0).round(2) # in kilograms
 
     pokemon_entry['moves'] = []
 
