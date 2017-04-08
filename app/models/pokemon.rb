@@ -32,4 +32,8 @@ class Pokemon < ApplicationRecord
   def weight
     Weight.new(self[:weight])
   end
+
+  def height
+    Length.new(self[:height])
+  end
 end

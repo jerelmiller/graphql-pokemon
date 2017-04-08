@@ -10,7 +10,13 @@ Types::PokemonType = GraphQL::ObjectType.define do
   field :specialAttack, !types.Int, property: :special_attack
   field :specialDefense, !types.Int, property: :special_defense
   field :speed, !types.Int
-  field :height, !types.Float
+  field :height, !types.Float do
+    argument :unit, Types::LengthUnitEnum
+    description "Height of pokemon. Default unit is #{Length::Unit::METER}"
+    resolve ->(pokemon, args, ctx) {
+      pokemon.height.convert(unit: args[:unit] || Length::Unit::METER)
+    }
+  end
 
   field :weight, !types.Float do
     argument :unit, Types::WeightUnitEnum
