@@ -42,7 +42,7 @@ Types::PokemonType = GraphQL::ObjectType.define do
     description 'Image for pokemon'
     resolve ->(pokemon, args, ctx) {
       ActionController::Base.helpers.image_url(
-        "#{pokemon.number}#{pokemon.name.gsub(/\W/, '')}.png",
+        "#{pokemon.number}#{pokemon.name.gsub(/[^a-zA-Z\-]/, '')}.png",
         host: ctx[:request].base_url
       )
     }
