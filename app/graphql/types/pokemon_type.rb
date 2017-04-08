@@ -14,7 +14,7 @@ Types::PokemonType = GraphQL::ObjectType.define do
 
   field :weight, !types.Float do
     argument :unit, Types::WeightEnum
-    description "Weight of pokemon. Default unit is #{Weight::Unit::KILOGRAMS.upcase}"
+    description "Weight of pokemon. Default unit is #{Weight::Unit::KILOGRAMS}"
     resolve ->(pokemon, args, ctx) {
       pokemon.weight.convert(unit: args[:unit] || Weight::Unit::KILOGRAMS)
     }

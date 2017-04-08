@@ -1,7 +1,7 @@
 class Weight
   class Unit
-    KILOGRAMS = 'kg'.freeze
-    POUNDS = 'lb'.freeze
+    KILOGRAMS = 'KILOGRAMS'.freeze
+    POUNDS = 'POUNDS'.freeze
   end
 
   POUNDS_PER_KILOGRAM = 2.20462
@@ -11,7 +11,7 @@ class Weight
   end
 
   def convert(unit:)
-    case unit.downcase
+    case unit
     when Unit::KILOGRAMS then @weight.round(2)
     when Unit::POUNDS then (@weight * POUNDS_PER_KILOGRAM).round(2)
     else raise ArgumentError, "cannot convert to unit #{unit}"
