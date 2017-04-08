@@ -37,4 +37,14 @@ Types::PokemonType = GraphQL::ObjectType.define do
   field :evolutions, ->{ types[Types::PokemonType] } do
     description 'Evolutions of the pokemon'
   end
+
+  field :image, !types.String do
+    description 'Image for pokemon'
+    resolve ->(pokemon, args, ctx) {
+      ActionController::Base.helpers.image_url(
+        "#{pokemon.number}#{pokemon.name.gsub(/\W/, '')}.png",
+        host: ctx[:request].base_url
+      )
+    }
+  end
 end

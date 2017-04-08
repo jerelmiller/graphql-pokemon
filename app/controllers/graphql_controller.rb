@@ -2,7 +2,8 @@ class GraphqlController < ApplicationController
   def execute
     render json: GraphqlPokemonSchema.execute(
       params[:query],
-      variables: variables
+      variables: variables,
+      context: { request: request }
     )
   end
 
