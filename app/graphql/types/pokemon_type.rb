@@ -12,6 +12,7 @@ Types::PokemonType = GraphQL::ObjectType.define do
   field :speed, !types.Int
   field :height, !types.Float
   field :weight, !types.Float
+  field :description, !types.String
 
   field :types, !types[!types.String] do
     description 'Pokemon types'
