@@ -34,8 +34,12 @@ ActiveRecord::Base.transaction do
 
     cached_pokemon[pokemon_json[:number]] = pokemon
 
-    pokemon_json[:types].each do |type|
-      PokemonType.create!(pokemon: pokemon, type: cached_types[type])
+    pokemon_json[:types].each_with_index do |type, idx|
+      PokemonType.create!(
+        pokemon: pokemon,
+        type: cached_types[type],
+        order: idx + 1
+      )
     end
 
     pokemon_json[:weaknesses].each do |type|
