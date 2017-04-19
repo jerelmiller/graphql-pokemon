@@ -1,6 +1,9 @@
 Types::QueryType = GraphQL::ObjectType.define do
   name 'Query'
 
+  field :node, GraphQL::Relay::Node.field
+  field :nodes, GraphQL::Relay::Node.plural_field
+
   field :pokemons, types[Types::PokemonType] do
     description 'Get all pokemon'
     resolve Resolvers::PokemonResolver.new
