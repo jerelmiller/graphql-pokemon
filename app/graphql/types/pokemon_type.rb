@@ -3,6 +3,8 @@ Types::PokemonType = GraphQL::ObjectType.define do
 
   implements GraphQL::Relay::Node.interface
 
+  global_id_field :id
+
   field :id, !types.ID
   field :name, !types.String
   field :number, !types.String
